@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamescherti&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamescherti&title=Stars,Commits,Repositories,PullRequest&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Projects
 
