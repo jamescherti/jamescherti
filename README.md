@@ -1,7 +1,5 @@
 ### Hi there 👋, I am James Cherti
 
-### Follow me
-
 - **[Twitter @jamescherti](https://twitter.com/jamescherti)**
 - Website: **[https://www.jamescherti.com](https://www.jamescherti.com/)**
 - Source code snippets: **[Gist @jamescherti](https://gist.github.com/jamescherti)**
