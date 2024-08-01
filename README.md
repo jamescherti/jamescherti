@@ -13,10 +13,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamescherti&show_icons=true&theme=default)
 
-<div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=jamescherti&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 ![jamescherti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamescherti&theme=default&hide_border=true)
 
 ### Projects
@@ -26,3 +22,7 @@
 - **[vim-tab-bar.el](https://github.com/jamescherti/vim-tab-bar.el)**: Make the Emacs tab-bar Look Like Vim’s Tab Bar . <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tab-bar.el?style=social">
 
 ![jamescherti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamescherti&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=jamescherti&style=for-the-badge&color=orange" alt=""/>
+</div>
