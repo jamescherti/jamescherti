@@ -1,6 +1,6 @@
 ### Hi there 👋, I am James Cherti
 
-- **[Twitter @jamescherti](https://twitter.com/jamescherti)**
+- X: **[@jamescherti](https://x.com/jamescherti)**
 - Website: **[https://www.jamescherti.com](https://www.jamescherti.com/)**
 - Source code snippets: **[Gist @jamescherti](https://gist.github.com/jamescherti)**
 - Open source projects: **[GitHub @jamescherti](https://github.com/jamescherti)**
