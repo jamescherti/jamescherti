@@ -3,13 +3,9 @@
 ### Follow me
 
 - [Twitter @jamescherti](https://twitter.com/jamescherti)
-- [GitHub @jamescherti](https://github.com/jamescherti) (Open source projects)
-- [Gist @jamescherti](https://gist.github.com/jamescherti) (Source code snippets)
-- [Website: https://www.jamescherti.com](https://www.jamescherti.com/)
-
-### Projects
-
-- **[outline-indent.el](https://github.com/jamescherti/outline-indent.el)**: An Emacs package that provides a minor mode that enables code folding and outlining based on indentation levels for various indentation-based text files, such as YAML, Python, and other indented text files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/outline-indent.el?style=social">
+- Open source projects: [GitHub @jamescherti](https://github.com/jamescherti)
+- Source code snippets: [Gist @jamescherti](https://gist.github.com/jamescherti)
+- Website: [https://www.jamescherti.com](https://www.jamescherti.com/)
 
 ### Stats
 
@@ -20,3 +16,8 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=jamescherti&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+### Projects
+
+- **[outline-indent.el](https://github.com/jamescherti/outline-indent.el)**: An Emacs package that provides a minor mode that enables code folding and outlining based on indentation levels for various indentation-based text files, such as YAML, Python, and other indented text files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/outline-indent.el?style=social">
+- **[watch-xfce-xfconf](https://github.com/jamescherti/watch-xfce-xfconf)**: An Emacs package that provides a minor mode that enables code folding and outlining based on indentation levels for various indentation-based text files, such as YAML, Python, and other indented text files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/watch-xfce-xfconf?style=social">
