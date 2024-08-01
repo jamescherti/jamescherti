@@ -2,7 +2,7 @@
 
 ### Projects
 
-- **[https://github.com/jamescherti/outline-indent.el](outline-indent.el)** <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/outline-indent.el?style=social">
+- **[outline-indent.el](https://github.com/jamescherti/outline-indent.el)** <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/outline-indent.el?style=social">
 
 ### Stats
 
