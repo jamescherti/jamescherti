@@ -1,9 +1,9 @@
 ### Hi there 👋, I am James Cherti
 
-- X: **[@jamescherti](https://x.com/jamescherti)**
 - Website: **[https://www.jamescherti.com](https://www.jamescherti.com/)**
 - Source code snippets: **[Gist @jamescherti](https://gist.github.com/jamescherti)**
 - Open source projects: **[GitHub @jamescherti](https://github.com/jamescherti)**
+- X: **[@jamescherti](https://x.com/jamescherti)**
 
 ### Stats
 
@@ -25,7 +25,7 @@
 
 - **[easysession.el](https://github.com/jamescherti/easysession.el)**: Easysession is lightweight Emacs session manager that can persist and restore file editing buffers, indirect buffers/clones, Dired buffers, the tab-bar, and the Emacs frames (with or without the Emacs frames size, width, and height). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/easysession.el?style=social">
 
-- **[tomorrow-night-deepblue-theme.el.el](https://github.com/jamescherti/tomorrow-night-deepblue-theme.el.el)**: The Tomorrow Night Deepblue Emacs theme is a beautiful deep blue variant of the Tomorrow Night theme, which is renowned for its elegant color palette that is pleasing to the eyes. It features a deep blue background color that creates a calming atmosphere. The theme is also a great choice for those who miss the blue themes that were trendy a few years ago. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/tomorrow-night-deepblue-theme.el.el?style=social">
+- **[tomorrow-night-deepblue-theme.el](https://github.com/jamescherti/tomorrow-night-deepblue-theme.el)**: The Tomorrow Night Deepblue Emacs theme is a beautiful deep blue variant of the Tomorrow Night theme, which is renowned for its elegant color palette that is pleasing to the eyes. It features a deep blue background color that creates a calming atmosphere. The theme is also a great choice for those who miss the blue themes that were trendy a few years ago. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/tomorrow-night-deepblue-theme.el?style=social">
 
 - **[Other projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
