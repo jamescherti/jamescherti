@@ -1,6 +1,6 @@
-### Hi there, I am James Cherti 👋
+### Hi there 👋, I am James Cherti
 
-### Follow James Cherti
+### Follow me
 
 - [Twitter @jamescherti](https://twitter.com/jamescherti)
 - [GitHub @jamescherti](https://github.com/jamescherti) (Open source projects)
@@ -15,7 +15,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamescherti&title=Stars,Commits,Repositories,PullRequest&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
-![jamescherti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamescherti&theme=default&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamescherti&show_icons=true&theme=default)
 
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=jamescherti&style=for-the-badge&color=orange" alt=""/>
