@@ -25,6 +25,8 @@
 
 - **[ultyas](https://github.com/jamescherti/ultyas)**: Ultyas is a command-line tool designed to simplify the process of converting code snippets from UltiSnips (Vim) to YASnippet format (Emacs). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/ultyas?style=social">
 
+- [Other projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)
+
 ![jamescherti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamescherti&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 <div id="header" align="center">
