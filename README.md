@@ -27,9 +27,9 @@
 
 - **[tomorrow-night-deepblue-theme.el](https://github.com/jamescherti/tomorrow-night-deepblue-theme.el)**: The Tomorrow Night Deepblue Emacs theme is a beautiful deep blue variant of the Tomorrow Night theme, which is renowned for its elegant color palette that is pleasing to the eyes. It features a deep blue background color that creates a calming atmosphere. The theme is also a great choice for those who miss the blue themes that were trendy a few years ago. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/tomorrow-night-deepblue-theme.el?style=social">
 
-- **[cherrybuckle](https://github.com/jamescherti/cherrybuckle)**: Cherry MX Blue mechanical keyboard simulator (Compatible with: Linux and MacOS). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/cherrybuckle?style=social">
-
 - **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
+
+- **[cherrybuckle](https://github.com/jamescherti/cherrybuckle)**: Cherry MX Blue mechanical keyboard simulator (Compatible with: Linux and MacOS). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/cherrybuckle?style=social">
 
 - **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions... <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-client?style=social">
 
