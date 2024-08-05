@@ -25,7 +25,7 @@
 
 - **[tomorrow-night-deepblue-theme.el](https://github.com/jamescherti/tomorrow-night-deepblue-theme.el)**: The Tomorrow Night Deepblue Emacs theme is a beautiful deep blue variant of the Tomorrow Night theme, which is renowned for its elegant color palette that is pleasing to the eyes. It features a deep blue background color that creates a calming atmosphere. The theme is also a great choice for those who miss the blue themes that were trendy a few years ago. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/tomorrow-night-deepblue-theme.el?style=social">
 
-- **[ultyas](https://github.com/jamescherti/ultyas)**: Ultyas is a command-line tool designed to simplify the process of converting code snippets from UltiSnips (Vim) to YASnippet format (Emacs). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/ultyas?style=social">
+- **[ultyas](https://github.com/jamescherti/ultyas)**: Ultyas is a command-line tool designed to simplify the process of converting code snippets from UltiSnips to YASnippet format. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/ultyas?style=social">
 
 - **[vim-tomorrow-night-deepblue](https://github.com/jamescherti/vim-tomorrow-night-deepblue)**: The Vim color scheme Tomorrow Night Deepblue is a beautiful deep blue variant of the Tomorrow Night color scheme. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tomorrow-night-deepblue?style=social">
 
