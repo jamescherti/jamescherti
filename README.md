@@ -13,7 +13,7 @@
 
 - **[minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d)**: This repository hosts a minimal Emacs configuration designed to serve as a foundation for your vanilla Emacs setup and provide a solid base for an enhanced Emacs experience. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=social">
 
-- **[outline-indent.el](https://github.com/jamescherti/outline-indent.el)**: An Emacs package that provides a minor mode that enables code folding and outlining based on indentation levels for various indentation-based text files, such as YAML, Python, and other indented text files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/outline-indent.el?style=social">
+- **[outline-indent.el](https://github.com/jamescherti/outline-indent.el)**: An origami.el alternative that provides a minor mode that enables code folding and outlining based on indentation levels for various indentation-based text files, such as YAML, Python, and other indented text files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/outline-indent.el?style=social">
 
 - **[easysession.el](https://github.com/jamescherti/easysession.el)**: Easysession is lightweight Emacs session manager that can persist and restore file editing buffers, indirect buffers/clones, Dired buffers, the tab-bar, and the Emacs frames (with or without the Emacs frames size, width, and height). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/easysession.el?style=social">
 
