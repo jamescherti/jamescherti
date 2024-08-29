@@ -15,7 +15,7 @@
 
 - **[outline-indent.el](https://github.com/jamescherti/outline-indent.el)**: An origami.el alternative that provides a minor mode that enables code folding and outlining based on indentation levels for various indentation-based text files, such as YAML, Python, and other indented text files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/outline-indent.el?style=social">
 
-- **[easysession.el](https://github.com/jamescherti/easysession.el)**: Easysession is lightweight Emacs session manager that can persist and restore file editing buffers, indirect buffers/clones, Dired buffers, the tab-bar, and the Emacs frames (with or without the Emacs frames size, width, and height). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/easysession.el?style=social">
+- **[easysession.el](https://github.com/jamescherti/easysession.el)**: Easysession is lightweight Emacs session manager that can persist and restore file editing buffers, indirect buffers/clones, Dired buffers, the tab-bar, and the Emacs frames (with or without the Emacs frames size, width, and height). <img align="right" alt="Workflow" src="https://github.com/jamescherti/easysession.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/easysession.el?style=social">
 
 - **[watch-xfce-xfconf](https://github.com/jamescherti/watch-xfce-xfconf)**: Configure XFCE 4 programmatically by displaying the xfconf-query commands that correspond to any change made in XFCE 4 / Xfconf settings. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/watch-xfce-xfconf?style=social">
 
