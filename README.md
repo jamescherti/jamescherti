@@ -43,6 +43,8 @@
 
 - **[vim-hjklmode](https://github.com/jamescherti/vim-hjklmode)**: Add hjkl navigation to all Vim modes. This Vim plugin will help you to break the habit of using the keys that make you move your hand away from the touch type position. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-hjklmode?style=social">
 
+- **[flymake-ansible-lint.el](https://github.com/jamescherti/flymake-ansible-lint.el)**: The flymake-ansible-lint Emacs package provides a Flymake backend for ansible-lint. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-ansible-lint.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-ansible-lint.el?style=social">
+
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
 ![jamescherti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamescherti&theme=default&show_icons=true&hide_border=true&layout=compact)
