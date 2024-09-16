@@ -33,15 +33,15 @@
 
 - **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
 
-- **[cherrybuckle](https://github.com/jamescherti/cherrybuckle)**: Cherry MX Blue mechanical keyboard simulator (Compatible with: Linux and MacOS). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/cherrybuckle?style=social">
-
 - **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions... <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-client?style=social">
+
+- **[cherrybuckle](https://github.com/jamescherti/cherrybuckle)**: Cherry MX Blue mechanical keyboard simulator (Compatible with: Linux and MacOS). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/cherrybuckle?style=social">
 
 - **[vim-hjklmode](https://github.com/jamescherti/vim-hjklmode)**: Add hjkl navigation to all Vim modes. This Vim plugin will help you to break the habit of using the keys that make you move your hand away from the touch type position. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-hjklmode?style=social">
 
-- **[pathaction](https://github.com/jamescherti/pathaction)**: A command-line tool that enables the execution of specific commands on targeted files or directories. Useful for developers, Emacs users, Vim users... Its key advantage lies in its flexibility, allowing users to handle various types of files (such as source code, text files, images, videos, configuration files, and more) simply by passing the file or directory as an argument to the pathaction tool. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pathaction?style=social">
-
 - **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
+
+- **[pathaction](https://github.com/jamescherti/pathaction)**: A command-line tool that enables the execution of specific commands on targeted files or directories. Useful for developers, Emacs users, Vim users... Its key advantage lies in its flexibility, allowing users to handle various types of files (such as source code, text files, images, videos, configuration files, and more) simply by passing the file or directory as an argument to the pathaction tool. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pathaction?style=social">
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
