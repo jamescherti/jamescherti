@@ -31,9 +31,9 @@
 
 - **[ultyas](https://github.com/jamescherti/ultyas)**: Ultyas is a command-line tool designed to simplify the process of converting code snippets from UltiSnips to YASnippet format. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/ultyas?style=social">
 
-- **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
-
 - **[flymake-ansible-lint.el](https://github.com/jamescherti/flymake-ansible-lint.el)**: The flymake-ansible-lint Emacs package provides a Flymake backend for ansible-lint. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-ansible-lint.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-ansible-lint.el?style=social">
+
+- **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
 
 - **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
 
