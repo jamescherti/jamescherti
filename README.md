@@ -47,7 +47,7 @@
 
 - **[vim-hjklmode](https://github.com/jamescherti/vim-hjklmode)**: Add hjkl navigation to all Vim modes. This Vim plugin will help you to break the habit of using the keys that make you move your hand away from the touch type position. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-hjklmode?style=social">
 
-- **[inhibit-mouse.el](https://github.com/jamescherti/inhibit-mouse.el)**: The package that allows disabling mouse input in Emacs (simpler and faster alternative to the disable-mouse package).
+- **[inhibit-mouse.el](https://github.com/jamescherti/inhibit-mouse.el)**: A package that enables the disabling of mouse input in Emacs, serving as a simpler and faster alternative to the disable-mouse package.
 
 - **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters.
 
