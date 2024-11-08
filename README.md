@@ -53,6 +53,8 @@
 
 - **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters.
 
+- **[compile-angel.el](https://github.com/jamescherti/compile-angel.el)**: An Emacs package that compile Emacs Lisp libraries. This lightweight alternative to auto-compile not only compiles Elisp files loaded with load and require, but also handles compiling deferred/autoloaded files.
+
 - **[git-commitflow](https://github.com/jamescherti/git-commitflow)**: A command-line interface that assists with the Git operations of adding, viewing differences, committing changes, and pushing updates.
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
