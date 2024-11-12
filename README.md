@@ -21,6 +21,8 @@
 
 - **[dir-config.el](https://github.com/jamescherti/dir-config.el)**: Automatically find and evaluate .dir-config.el Elisp files to configure directory-specific settings. <img align="right" alt="Workflow" src="https://github.com/jamescherti/dir-config.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/dir-config.el?style=social">
 
+- **[compile-angel.el](https://github.com/jamescherti/compile-angel.el)**: An Emacs package that automatically compiles Emacs loaded or saved Elisp libraries. This lightweight alternative to `auto-compile` not only compiles Elisp files loaded with `load` and `require`, but also handles deferred and autoloaded files. <img align="right" alt="Workflow" src="https://github.com/jamescherti/compile-angel.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/compile-angel.el?style=social">
+
 - **[elispcomp](https://github.com/jamescherti/elispcomp)**: A command line tool that allows compiling Elisp code directly from the terminal or from a shell script. It facilitates the generation of optimized .elc (byte-compiled) and .eln (native-compiled) files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/elispcomp?style=social">
 
 - **[vim-tab-bar.el](https://github.com/jamescherti/vim-tab-bar.el)**: Make the Emacs tab-bar Look Like Vim’s Tab Bar . <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tab-bar.el?style=social">
@@ -52,8 +54,6 @@
 - **[bash-stdops](https://github.com/jamescherti/bash-stdops)**: A collection of helpful Bash scripts that simplify various operations, including file searching, text replacement, and content modification.
 
 - **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters.
-
-- **[compile-angel.el](https://github.com/jamescherti/compile-angel.el)**: An Emacs package that automatically compiles Emacs loaded or saved Elisp libraries. This lightweight alternative to `auto-compile` not only compiles Elisp files loaded with `load` and `require`, but also handles deferred and autoloaded files.
 
 - **[git-commitflow](https://github.com/jamescherti/git-commitflow)**: A command-line interface that assists with the Git operations of adding, viewing differences, committing changes, and pushing updates.
 
