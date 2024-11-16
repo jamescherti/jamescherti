@@ -21,7 +21,7 @@
 
 - **[dir-config.el](https://github.com/jamescherti/dir-config.el)**: Automatically find and evaluate .dir-config.el Elisp files to configure directory-specific settings. <img align="right" alt="Workflow" src="https://github.com/jamescherti/dir-config.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/dir-config.el?style=social">
 
-- **[compile-angel.el](https://github.com/jamescherti/compile-angel.el)**: An Emacs package that automatically compiles Emacs loaded or saved Elisp libraries. This lightweight alternative to `auto-compile` not only compiles Elisp files loaded with `load` and `require`, but also handles deferred and autoloaded files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/compile-angel.el?style=social">
+- **[compile-angel.el](https://github.com/jamescherti/compile-angel.el)**: An Emacs package that automatically compiles Emacs loaded or saved Elisp libraries. This lightweight alternative to auto-compile not only compiles Elisp files loaded with load and require, but also handles deferred and autoloaded files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/compile-angel.el?style=social">
 
 - **[elispcomp](https://github.com/jamescherti/elispcomp)**: A command line tool that allows compiling Elisp code directly from the terminal or from a shell script. It facilitates the generation of optimized .elc (byte-compiled) and .eln (native-compiled) files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/elispcomp?style=social">
 
@@ -39,7 +39,7 @@
 
 - **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
 
-- **[inhibit-mouse.el](https://github.com/jamescherti/inhibit-mouse.el)**: A package that disables mouse input in Emacs, offering a simpler and faster alternative to the `disable-mouse` package. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/inhibit-mouse.el?style=social">
+- **[inhibit-mouse.el](https://github.com/jamescherti/inhibit-mouse.el)**: A package that disables mouse input in Emacs, offering a simpler and faster alternative to the disable-mouse package. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/inhibit-mouse.el?style=social">
 
 - **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions... <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-client?style=social">
 
