@@ -13,15 +13,15 @@
 
 - **[minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d)**: This repository hosts a minimal Emacs configuration designed to serve as a foundation for your vanilla Emacs setup and provide a solid base for an enhanced Emacs experience. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=social">
 
-- **[outline-indent.el](https://github.com/jamescherti/outline-indent.el)**: An origami.el alternative that provides a minor mode that enables code folding and outlining based on indentation levels for various indentation-based text files, such as YAML, Python, and other indented text files. <img align="right" alt="Workflow" src="https://github.com/jamescherti/outline-indent.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/outline-indent.el?style=social">
-
 - **[easysession.el](https://github.com/jamescherti/easysession.el)**: Easysession is lightweight Emacs session manager that can persist and restore file editing buffers, indirect buffers/clones, Dired buffers, the tab-bar, and the Emacs frames (with or without the Emacs frames size, width, and height). <img align="right" alt="Workflow" src="https://github.com/jamescherti/easysession.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/easysession.el?style=social">
 
-- **[watch-xfce-xfconf](https://github.com/jamescherti/watch-xfce-xfconf)**: Configure XFCE 4 programmatically by displaying the xfconf-query commands that correspond to any change made in XFCE 4 / Xfconf settings. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/watch-xfce-xfconf?style=social">
+- **[outline-indent.el](https://github.com/jamescherti/outline-indent.el)**: An origami.el alternative that provides a minor mode that enables code folding and outlining based on indentation levels for various indentation-based text files, such as YAML, Python, and other indented text files. <img align="right" alt="Workflow" src="https://github.com/jamescherti/outline-indent.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/outline-indent.el?style=social">
 
 - **[dir-config.el](https://github.com/jamescherti/dir-config.el)**: Automatically find and evaluate .dir-config.el Elisp files to configure directory-specific settings. <img align="right" alt="Workflow" src="https://github.com/jamescherti/dir-config.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/dir-config.el?style=social">
 
 - **[compile-angel.el](https://github.com/jamescherti/compile-angel.el)**: An Emacs package that automatically compiles Emacs loaded or saved Elisp libraries. This lightweight alternative to auto-compile not only compiles Elisp files loaded with load and require, but also handles deferred and autoloaded files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/compile-angel.el?style=social">
+
+- **[watch-xfce-xfconf](https://github.com/jamescherti/watch-xfce-xfconf)**: Configure XFCE 4 programmatically by displaying the xfconf-query commands that correspond to any change made in XFCE 4 / Xfconf settings. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/watch-xfce-xfconf?style=social">
 
 - **[elispcomp](https://github.com/jamescherti/elispcomp)**: A command line tool that allows compiling Elisp code directly from the terminal or from a shell script. It facilitates the generation of optimized .elc (byte-compiled) and .eln (native-compiled) files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/elispcomp?style=social">
 
@@ -36,6 +36,8 @@
 - **[flymake-ansible-lint.el](https://github.com/jamescherti/flymake-ansible-lint.el)**: The flymake-ansible-lint Emacs package provides a Flymake backend for ansible-lint. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-ansible-lint.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-ansible-lint.el?style=social">
 
 - **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
+
+- **[quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el)**: This package enables Emacs to function as an offline dictionary by using the sdcv command-line tool directly within Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/quick-sdcv.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/quick-sdcv.el?style=social">
 
 - **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
 
@@ -56,8 +58,6 @@
 - **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters.
 
 - **[git-commitflow](https://github.com/jamescherti/git-commitflow)**: A command-line interface that assists with the Git operations of adding, viewing differences, committing changes, and pushing updates.
-
-- **[quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el)**: This package enables Emacs to function as an offline dictionary by using the sdcv command-line tool directly within Emacs.
 
 - **[jc-dotfiles](https://github.com/jamescherti/jc-dotfiles)**: This repository houses James Cherti's dotfiles and configuration scripts.
 
