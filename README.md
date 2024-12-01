@@ -49,6 +49,11 @@
 
 - **[pathaction](https://github.com/jamescherti/pathaction)**: A command-line tool that enables the execution of specific commands on targeted files or directories. Useful for developers, Emacs users, Vim users... Its key advantage lies in its flexibility, allowing users to handle various types of files (such as source code, text files, images, videos, configuration files, and more) simply by passing the file or directory as an argument to the pathaction tool. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pathaction?style=social">
 
+- **[enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el)**: An Emacs package that prevents parenthesis imbalance when
+using *evil-mode* with *paredit*. It intercepts *evil-mode* commands such as
+delete, change, and paste, blocking their execution if they would break the
+parenthetical structure. <img align="right" alt="Workflow" src="https://github.com/jamescherti/enhanced-evil-paredit.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/enhanced-evil-paredit.el?style=social">
+
 - **[be-quiet.el](https://github.com/jamescherti/be-quiet.el)**: The be-quiet Emacs package helps manage and minimize unwanted output in your Emacs environment. It is useful in contexts where controlling or suppressing verbosity is required. <img align="right" alt="Workflow" src="https://github.com/jamescherti/be-quiet.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/be-quiet.el?style=social">
 
 - **[vim-hjklmode](https://github.com/jamescherti/vim-hjklmode)**: Add hjkl navigation to all Vim modes. This Vim plugin will help you to break the habit of using the keys that make you move your hand away from the touch type position.
