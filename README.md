@@ -73,6 +73,9 @@ parenthetical structure. <img align="right" alt="Workflow" src="https://github.c
 
 - **[lean-vimrc](https://github.com/jamescherti/lean-vimrc)**: The lean-vimrc project is a customizable Vim base that provides better Vim defaults, intended to serve as a solid foundation for a Vim configuration.
 
+- **[ansible-tuned](https://github.com/jamescherti/ansible-tuned)**:
+An Ansible playbook that manages the installation, configuration, and activation of the tuned service.
+
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
 ![jamescherti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamescherti&theme=default&show_icons=true&hide_border=true&layout=compact)
