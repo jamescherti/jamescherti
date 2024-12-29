@@ -29,10 +29,9 @@
 
 - **[ultyas](https://github.com/jamescherti/ultyas)**: Ultyas is a command-line tool designed to simplify the process of converting code snippets from UltiSnips to YASnippet format. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/ultyas?style=social">
 
-- **[tomorrow-night-deepblue-theme.el](https://github.com/jamescherti/tomorrow-night-deepblue-theme.el)**: The Tomorrow Night Deepblue Emacs theme is a beautiful deep blue variant of the Tomorrow Night theme, which is renowned for its elegant color palette that is pleasing to the eyes. It features a deep blue background color that creates a calming atmosphere. The theme is also a great choice for those who miss the blue themes that were trendy a few years ago. <img align="right" alt="Workflow" src="https://github.com/jamescherti/tomorrow-night-deepblue-theme.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/tomorrow-night-deepblue-theme.el?style=social">
+- **[buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el)**: A package that automatically kills buffers to help maintain a clean and efficient workspace, while also improving Emacs' performance by reducing the number of open buffers, thereby decreasing the number of active modes, timers, and other processes associated with those buffers. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-terminator.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/buffer-terminator.el?style=social">
 
-- **[buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el)**: A package that automatically kills buffers to help maintain a clean and efficient workspace, while also improving Emacs' performance by reducing the number of open buffers, thereby decreasing the number of active modes, timers, and other processes associated with those buffers.
-<img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-terminator.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/buffer-terminator.el?style=social">
+- **[tomorrow-night-deepblue-theme.el](https://github.com/jamescherti/tomorrow-night-deepblue-theme.el)**: The Tomorrow Night Deepblue Emacs theme is a beautiful deep blue variant of the Tomorrow Night theme, which is renowned for its elegant color palette that is pleasing to the eyes. It features a deep blue background color that creates a calming atmosphere. The theme is also a great choice for those who miss the blue themes that were trendy a few years ago. <img align="right" alt="Workflow" src="https://github.com/jamescherti/tomorrow-night-deepblue-theme.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/tomorrow-night-deepblue-theme.el?style=social">
 
 - **[vim-tomorrow-night-deepblue](https://github.com/jamescherti/vim-tomorrow-night-deepblue)**: The Vim color scheme Tomorrow Night Deepblue is a beautiful deep blue variant of the Tomorrow Night color scheme. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tomorrow-night-deepblue?style=social">
 
@@ -52,10 +51,7 @@
 
 - **[pathaction](https://github.com/jamescherti/pathaction)**: A command-line tool that enables the execution of specific commands on targeted files or directories. Useful for developers, Emacs users, Vim users... Its key advantage lies in its flexibility, allowing users to handle various types of files (such as source code, text files, images, videos, configuration files, and more) simply by passing the file or directory as an argument to the pathaction tool. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pathaction?style=social">
 
-- **[enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el)**: An Emacs package that prevents parenthesis imbalance when
-using *evil-mode* with *paredit*. It intercepts *evil-mode* commands such as
-delete, change, and paste, blocking their execution if they would break the
-parenthetical structure. <img align="right" alt="Workflow" src="https://github.com/jamescherti/enhanced-evil-paredit.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/enhanced-evil-paredit.el?style=social">
+- **[enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el)**: An Emacs package that prevents parenthesis imbalance when using *evil-mode* with *paredit*. It intercepts *evil-mode* commands such as delete, change, and paste, blocking their execution if they would break the parenthetical structure. <img align="right" alt="Workflow" src="https://github.com/jamescherti/enhanced-evil-paredit.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/enhanced-evil-paredit.el?style=social">
 
 - **[be-quiet.el](https://github.com/jamescherti/be-quiet.el)**: The be-quiet Emacs package helps manage and minimize unwanted output in your Emacs environment. It is useful in contexts where controlling or suppressing verbosity is required. <img align="right" alt="Workflow" src="https://github.com/jamescherti/be-quiet.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/be-quiet.el?style=social">
 
@@ -73,8 +69,7 @@ parenthetical structure. <img align="right" alt="Workflow" src="https://github.c
 
 - **[lean-vimrc](https://github.com/jamescherti/lean-vimrc)**: The lean-vimrc project is a customizable Vim base that provides better Vim defaults, intended to serve as a solid foundation for a Vim configuration.
 
-- **[ansible-tuned](https://github.com/jamescherti/ansible-tuned)**:
-An Ansible playbook that manages the installation, configuration, and activation of the tuned service.
+- **[ansible-tuned](https://github.com/jamescherti/ansible-tuned)**: An Ansible playbook that manages the installation, configuration, and activation of the tuned service.
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
