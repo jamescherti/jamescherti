@@ -71,7 +71,9 @@
 
 - **[lean-vimrc](https://github.com/jamescherti/lean-vimrc)**: The lean-vimrc project is a customizable Vim base that provides better Vim defaults, intended to serve as a solid foundation for a Vim configuration.
 
-- **[ansible-tuned](https://github.com/jamescherti/ansible-tuned)**: An Ansible playbook that manages the installation, configuration, and activation of the tuned service.
+- **[ansible-role-tuned](https://github.com/jamescherti/ansible-role-tuned)**: An Ansible playbook that manages the installation, configuration, and activation of the tuned service.
+
+- **[ansible-role-reniced](https://github.com/jamescherti/ansible-role-reniced)**: An Ansible role that configures reniced on Debian and Ubuntu based operating systems.
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
