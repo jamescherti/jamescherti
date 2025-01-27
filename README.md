@@ -43,9 +43,9 @@
 
 - **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
 
-- **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
-
 - **[enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el)**: An Emacs package that prevents parenthesis imbalance when using *evil-mode* with *paredit*. It intercepts *evil-mode* commands such as delete, change, and paste, blocking their execution if they would break the parenthetical structure. <img align="right" alt="Workflow" src="https://github.com/jamescherti/enhanced-evil-paredit.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/enhanced-evil-paredit.el?style=social">
+
+- **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
 
 - **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions... <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-client?style=social">
 
