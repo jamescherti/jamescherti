@@ -49,7 +49,7 @@
 
 - **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions... <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-client?style=social">
 
-- **[jc-xfce-settings](https://github.com/jamescherti/jc-xfce-settings)**: This project provides the *jc-xfce-settings.sh* script, which holds James Cherti's settings to customize the XFCE desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience. <img align="right" alt="Workflow" src="https://github.com/jamescherti/jc-xfce-settings/actions/workflows/ci.yml/badge.svg">
+- **[jc-xfce-settings](https://github.com/jamescherti/jc-xfce-settings)**: This project provides the *jc-xfce-settings.sh* script, which holds James Cherti's settings to customize the XFCE desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/jc-xfce-settings?style=social">
 
 - **[cherrybuckle](https://github.com/jamescherti/cherrybuckle)**: Cherry MX Blue mechanical keyboard simulator (Compatible with: Linux and MacOS). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/cherrybuckle?style=social">
 
