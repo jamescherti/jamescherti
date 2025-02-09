@@ -63,7 +63,7 @@
 
 - **[buffer-wizard.el](https://github.com/jamescherti/buffer-wizard.el)**: The bufferwizard Emacs package offers a suite of helper functions, including efficient tools for deleting and renaming files. It also ensures that all associated buffers, including indirect buffers, are properly handled during these operations. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-wizard.el/actions/workflows/ci.yml/badge.svg">
 
-- [git-smartmv](https://github.com/jamescherti/git-smartmv): A command-line tool that allows moving files and/or directories without having to worry about manually choosing whether to use *git mv* or *mv*.
+- **[git-smartmv](https://github.com/jamescherti/git-smartmv)**: A command-line tool that intelligently moves files and directories by automatically choosing between `git mv` and `mv` depending on the source and destination paths.
 
 - **[vim-hjklmode](https://github.com/jamescherti/vim-hjklmode)**: Add hjkl navigation to all Vim modes. This Vim plugin will help you to break the habit of using the keys that make you move your hand away from the touch type position.
 
