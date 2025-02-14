@@ -81,6 +81,10 @@
 
 - **[ansible-role-flatpak](https://github.com/jamescherti/ansible-role-flatpak)**: An Ansible role that installs and configures Flatpak, adds Flathub as a remote repository, and optionally manages Flatpak packages and updates.
 
+- **[ansible-role-gitolite](https://github.com/jamescherti/ansible-role-gitolite)**: An Ansible role that installs and configures Gitolite for managing Git repositories and access control on remote servers.
+
+- **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
+
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
 ![jamescherti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamescherti&theme=default&show_icons=true&hide_border=true&layout=compact)
