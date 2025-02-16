@@ -11,7 +11,7 @@
 
 ### Projects
 
-- **[minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d)**: A customizable Emacs base that provides **better Emacs defaults and optimized startup**, intended to serve as a solid foundation for your vanilla Emacs configuration.
+- **[minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d)**: A customizable Emacs base that provides **better Emacs defaults and optimized startup**, intended to serve as a solid foundation for your vanilla Emacs configuration. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/easysession.el?style=social">
 
 - **[easysession.el](https://github.com/jamescherti/easysession.el)**: EasySession is lightweight Emacs session manager that can persist and restore file editing buffers, indirect buffers/clones, Dired buffers, the tab-bar, and the Emacs frames (with or without the Emacs frames size, width, and height). <img align="right" alt="Workflow" src="https://github.com/jamescherti/easysession.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/easysession.el?style=social">
 
