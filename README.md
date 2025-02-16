@@ -11,7 +11,7 @@
 
 ### Projects
 
-- **[minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d)**: This repository hosts a minimal Emacs configuration designed to serve as a foundation for your vanilla Emacs setup and provide a solid base for an enhanced Emacs experience. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=social">
+- **[minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d)**: A customizable Emacs base that provides **better Emacs defaults and optimized startup**, intended to serve as a solid foundation for your vanilla Emacs configuration.
 
 - **[easysession.el](https://github.com/jamescherti/easysession.el)**: EasySession is lightweight Emacs session manager that can persist and restore file editing buffers, indirect buffers/clones, Dired buffers, the tab-bar, and the Emacs frames (with or without the Emacs frames size, width, and height). <img align="right" alt="Workflow" src="https://github.com/jamescherti/easysession.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/easysession.el?style=social">
 
@@ -61,7 +61,7 @@
 
 - **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters.
 
-- **[buffer-wizard.el](https://github.com/jamescherti/buffer-wizard.el)**: The bufferwizard Emacs package offers a suite of helper functions, including efficient tools for deleting and renaming files. It also ensures that all associated buffers, including indirect buffers, are properly handled during these operations. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-wizard.el/actions/workflows/ci.yml/badge.svg">
+- **[bufferfile.el](https://github.com/jamescherti/bufferfile.el)**: An Emacs package that offers a suite of helper functions for deleting and renaming files. It also ensures that all associated buffers, including indirect buffers, are properly handled during these operations.
 
 - **[git-smartmv](https://github.com/jamescherti/git-smartmv)**: A command-line tool that intelligently moves files and directories by automatically choosing between 'git mv' and 'mv' depending on the source and destination paths.
 
@@ -72,6 +72,8 @@
 - **[git-commitflow](https://github.com/jamescherti/git-commitflow)**: A command-line interface that assists with the Git operations of adding, viewing differences, committing changes, and pushing updates.
 
 - **[jc-dotfiles](https://github.com/jamescherti/jc-dotfiles)**: This repository houses James Cherti's dotfiles and configuration scripts.
+
+- **[buffer-wizard.el](https://github.com/jamescherti/buffer-wizard.el)**: An Emacs package offers a suite of buffer related helper functions. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-wizard.el/actions/workflows/ci.yml/badge.svg">
 
 - **[jc-vimrc](https://github.com/jamescherti/jc-vimrc)**: The jc-vimrc project is a customizable Vim base that provides better Vim defaults, intended to serve as a solid foundation for a Vim configuration.
 
