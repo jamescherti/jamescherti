@@ -21,11 +21,11 @@
 
 - **[dir-config.el](https://github.com/jamescherti/dir-config.el)**: Automatically find and evaluate .dir-config.el Elisp files to configure directory-specific settings. <img align="right" alt="Workflow" src="https://github.com/jamescherti/dir-config.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/dir-config.el?style=social">
 
+- **[buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el)**: A package that automatically kills buffers to help maintain a clean and efficient workspace, while also improving Emacs' performance by reducing the number of open buffers, thereby decreasing the number of active modes, timers, and other processes associated with those buffers. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-terminator.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/buffer-terminator.el?style=social">
+
 - **[watch-xfce-xfconf](https://github.com/jamescherti/watch-xfce-xfconf)**: Configure XFCE 4 programmatically using the `xfconf-query` commands displayed by *watch-xfce-xfconf* when XFCE 4 settings are modified. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/watch-xfce-xfconf?style=social">
 
 - **[vim-tab-bar.el](https://github.com/jamescherti/vim-tab-bar.el)**: Make the Emacs tab-bar Look Like Vim’s Tab Bar . <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tab-bar.el?style=social">
-
-- **[buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el)**: A package that automatically kills buffers to help maintain a clean and efficient workspace, while also improving Emacs' performance by reducing the number of open buffers, thereby decreasing the number of active modes, timers, and other processes associated with those buffers. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-terminator.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/buffer-terminator.el?style=social">
 
 - **[elispcomp](https://github.com/jamescherti/elispcomp)**: A command line tool that allows compiling Elisp code directly from the terminal or from a shell script. It facilitates the generation of optimized .elc (byte-compiled) and .eln (native-compiled) files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/elispcomp?style=social">
 
