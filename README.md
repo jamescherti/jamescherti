@@ -57,7 +57,7 @@
 
 - **[pathaction.el](https://github.com/jamescherti/pathaction.el)**: An Emacs package that allows executing the pathaction command-line tool directly from Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/pathaction.el/actions/workflows/ci.yml/badge.svg">
 
-- **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim. <img align="right" alt="Workflow" src="https://github.com/jamescherti/vim-pathaction/actions/workflows/ci.yml/badge.svg">
+- **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim.
 
 - **[be-quiet.el](https://github.com/jamescherti/be-quiet.el)**: The be-quiet Emacs package helps manage and minimize unwanted output in your Emacs environment. It is useful in contexts where controlling or suppressing verbosity is required. <img align="right" alt="Workflow" src="https://github.com/jamescherti/be-quiet.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/be-quiet.el?style=social">
 
