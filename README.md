@@ -79,6 +79,8 @@
 
 - **[buffer-wizard.el](https://github.com/jamescherti/buffer-wizard.el)**: An Emacs package offers a suite of buffer related helper functions. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-wizard.el/actions/workflows/ci.yml/badge.svg">
 
+- **[stripspace.el](https://github.com/jamescherti/stripspace.el)**: Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column.
+
 - **[jc-vimrc](https://github.com/jamescherti/jc-vimrc)**: The jc-vimrc project is a customizable Vim base that provides better Vim defaults, intended to serve as a solid foundation for a Vim configuration.
 
 - **[ansible-role-tuned](https://github.com/jamescherti/ansible-role-tuned)**: An Ansible playbook that manages the installation, configuration, and activation of the tuned service.
