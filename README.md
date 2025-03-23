@@ -4,6 +4,7 @@
 - Source code snippets: **[Gist @jamescherti](https://gist.github.com/jamescherti)**
 - Open source projects: **[GitHub @jamescherti](https://github.com/jamescherti)**
 - X: **[@jamescherti](https://x.com/jamescherti)**
+- Reddit: **[@jamescherti](https://www.reddit.com/user/jamescherti/)**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamescherti&title=Stars,Commits,Repositories,PullRequest&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
