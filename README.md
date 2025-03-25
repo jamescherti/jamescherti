@@ -60,7 +60,7 @@
 
 - **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim.
 
-- **[bash-stdops](https://github.com/jamescherti/bash-stdops)**: A collection of helpful Bash scripts that simplify various operations, including file searching, text replacement, and content modification. <img align="right" alt="Workflow" src="https://github.com/jamescherti/bash-stdops/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bash-stdops?style=social">
+- **[bash-stdops](https://github.com/jamescherti/bash-stdops)**: A collection of helpful Bash scripts that simplify various operations, including file searching, text replacement, and content modification. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bash-stdops?style=social">
 
 - **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters. <img align="right" alt="Workflow" src="https://github.com/jamescherti/org-ibullets.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/org-ibullets.el?style=social">
 
