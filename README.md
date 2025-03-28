@@ -82,6 +82,8 @@
 
 - **[stripspace.el](https://github.com/jamescherti/stripspace.el)**: Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column. <img align="right" alt="Workflow" src="https://github.com/jamescherti/stripspace.el/actions/workflows/ci.yml/badge.svg">
 
+- **[persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el)**: An Emacs package ensures that the built-in text-scale-mode text scale is persisted and restored. <img align="right" alt="Workflow" src="https://github.com/jamescherti/persist-text-scale.el/actions/workflows/ci.yml/badge.svg">
+
 - **[jc-vimrc](https://github.com/jamescherti/jc-vimrc)**: The jc-vimrc project is a customizable Vim base that provides better Vim defaults, intended to serve as a solid foundation for a Vim configuration.
 
 - **[ansible-role-tuned](https://github.com/jamescherti/ansible-role-tuned)**: An Ansible playbook that manages the installation, configuration, and activation of the tuned service.
