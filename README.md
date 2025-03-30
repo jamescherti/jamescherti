@@ -72,6 +72,8 @@
 
 - **[bufferfile.el](https://github.com/jamescherti/bufferfile.el)**: An Emacs package that offers a suite of helper functions for deleting and renaming files. It also ensures that all associated buffers, including indirect buffers, are properly handled during these operations.
 
+- **[quick-fasd.el](https://github.com/jamescherti/quick-fasd.el)**: An Emacs package to integrate Fasd. Fasd is a command-line productivity booster that offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
+
 - **[git-smartmv](https://github.com/jamescherti/git-smartmv)**: A command-line tool that intelligently moves files and directories by automatically choosing between 'git mv' and 'mv' depending on the source and destination paths.
 
 - **[vim-hjklmode](https://github.com/jamescherti/vim-hjklmode)**: Add hjkl navigation to all Vim modes. This Vim plugin will help you to break the habit of using the keys that make you move your hand away from the touch type position.
