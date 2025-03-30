@@ -50,13 +50,13 @@
 
 - **[vim-tomorrow-night-deepblue](https://github.com/jamescherti/vim-tomorrow-night-deepblue)**: The Vim color scheme Tomorrow Night Deepblue is a beautiful deep blue variant of the Tomorrow Night color scheme. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tomorrow-night-deepblue?style=social">
 
+- **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters. <img align="right" alt="Workflow" src="https://github.com/jamescherti/org-ibullets.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/org-ibullets.el?style=social">
+
 - **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions... <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-client?style=social">
 
 - **[jc-xfce-settings](https://github.com/jamescherti/jc-xfce-settings)**: This project provides the *jc-xfce-settings.sh* script, which holds James Cherti's settings to customize the XFCE desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/jc-xfce-settings?style=social">
 
 - **[cherrybuckle](https://github.com/jamescherti/cherrybuckle)**: Cherry MX Blue mechanical keyboard simulator (Compatible with: Linux and MacOS). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/cherrybuckle?style=social">
-
-- **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters. <img align="right" alt="Workflow" src="https://github.com/jamescherti/org-ibullets.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/org-ibullets.el?style=social">
 
 - **[bash-stdops](https://github.com/jamescherti/bash-stdops)**: A collection of helpful Bash scripts that simplify various operations, including file searching, text replacement, and content modification. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bash-stdops?style=social">
 
