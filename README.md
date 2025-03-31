@@ -52,6 +52,8 @@
 
 - **[stripspace.el](https://github.com/jamescherti/stripspace.el)**: Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column. <img align="right" alt="Workflow" src="https://github.com/jamescherti/stripspace.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/stripspace.el?style=social">
 
+- **[bufferfile.el](https://github.com/jamescherti/bufferfile.el)**: An Emacs package that offers a suite of helper functions for deleting and renaming files. It also ensures that all associated buffers, including indirect buffers, are properly handled during these operations. <img align="right" alt="Workflow" src="https://github.com/jamescherti/bufferfile.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bufferfile.el?style=social">
+
 - **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters. <img align="right" alt="Workflow" src="https://github.com/jamescherti/org-ibullets.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/org-ibullets.el?style=social">
 
 - **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions... <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-client?style=social">
@@ -71,8 +73,6 @@
 - **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim.
 
 - **[ultisnips-mode.el](https://github.com/jamescherti/ultisnips-mode.el)**: An Emacs major mode for editing Ultisnips snippet files. This mode provides syntax highlighting to facilitate editing Ultisnips snippets.
-
-- **[bufferfile.el](https://github.com/jamescherti/bufferfile.el)**: An Emacs package that offers a suite of helper functions for deleting and renaming files. It also ensures that all associated buffers, including indirect buffers, are properly handled during these operations.
 
 - **[quick-fasd.el](https://github.com/jamescherti/quick-fasd.el)**: An Emacs package to integrate Fasd. Fasd is a command-line productivity booster that offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 
