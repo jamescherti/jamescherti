@@ -88,6 +88,8 @@
 
 - **[jc-vimrc](https://github.com/jamescherti/jc-vimrc)**: The jc-vimrc project is a customizable Vim base that provides better Vim defaults, intended to serve as a solid foundation for a Vim configuration.
 
+- **[batchfetch](https://github.com/jamescherti/batchfetch)**: A command-line tool designed to clone, fetch, and merge multiple Git repositories simultaneously. With Batchfetch, you no longer need to manually manage each repository one by one. It automates the tedious aspects of repository management. But why use Batchfetch? Because it is extremely fast, cloning repositories quickly by running Git operations in parallel. It intelligently detects whether a git fetch is needed, further speeding up the process of downloading data from repositories.
+
 - **[ansible-role-tuned](https://github.com/jamescherti/ansible-role-tuned)**: An Ansible playbook that manages the installation, configuration, and activation of the tuned service.
 
 - **[ansible-role-reniced](https://github.com/jamescherti/ansible-role-reniced)**: An Ansible role that configures reniced on Debian and Ubuntu based operating systems.
