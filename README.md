@@ -80,7 +80,7 @@
 
 - **[vim-hjklmode](https://github.com/jamescherti/vim-hjklmode)**: Add hjkl navigation to all Vim modes. This Vim plugin will help you to break the habit of using the keys that make you move your hand away from the touch type position.
 
-- **[git-commitflow](https://github.com/jamescherti/git-commitflow)**: A command-line interface that assists with the Git operations of adding, viewing differences, committing changes, and pushing updates.
+- **[git-commitflow](https://github.com/jamescherti/git-commitflow)**: A command-line interface that assists with the Git operations of adding, viewing differences, committing changes, and pushing updates. One significant benefit of the git-commitflow tool is that it enhances the user's awareness and control over their changes before committing.
 
 - **[jc-dotfiles](https://github.com/jamescherti/jc-dotfiles)**: This repository houses James Cherti's dotfiles and configuration scripts.
 
