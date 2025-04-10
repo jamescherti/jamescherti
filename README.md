@@ -90,6 +90,8 @@
 
 - **[batchfetch](https://github.com/jamescherti/batchfetch)**: A command-line tool for cloning, fetching, and merging multiple Git repositories simultaneously. Batchfetch eliminates the need to manage each repository individually by automating repetitive Git operations. It performs tasks in parallel, significantly accelerating the cloning process. Batchfetch also detects whether a fetch is necessary, reducing unnecessary operations and improving efficiency when downloading repository data.
 
+- **[pdfcipher](https://github.com/jamescherti/pdfcipher)**: A command-line tool enables encrypting and decrypting PDF files with robust password-based encryption. It allows users to set and remove passwords, ensuring secure access and distribution of PDF documents.
+
 - **[ansible-role-tuned](https://github.com/jamescherti/ansible-role-tuned)**: An Ansible playbook that manages the installation, configuration, and activation of the tuned service.
 
 - **[ansible-role-reniced](https://github.com/jamescherti/ansible-role-reniced)**: An Ansible role that configures reniced on Debian and Ubuntu based operating systems.
