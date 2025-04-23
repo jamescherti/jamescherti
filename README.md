@@ -86,7 +86,7 @@
 
 - **[buffer-wizard.el](https://github.com/jamescherti/buffer-wizard.el)**: An Emacs package offers a suite of buffer related helper functions. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-wizard.el/actions/workflows/ci.yml/badge.svg">
 
-- **[jc-vimrc](https://github.com/jamescherti/jc-vimrc)**: The jc-vimrc project is a customizable Vim base that provides better Vim defaults, intended to serve as a solid foundation for a Vim configuration.
+- **[efficient-vim-config](https://github.com/jamescherti/efficient-vim-config)**: The efficient-vim-config project is a customizable Vim base that provides better Vim defaults, intended to serve as a solid foundation for a Vim configuration.
 
 - **[batchfetch](https://github.com/jamescherti/batchfetch)**: A command-line tool for cloning, fetching, and merging multiple Git repositories simultaneously. Batchfetch eliminates the need to manage each repository individually by automating repetitive Git operations. It performs tasks in parallel, significantly accelerating the cloning process. Batchfetch also detects whether a fetch is necessary, reducing unnecessary operations and improving efficiency when downloading repository data.
 
