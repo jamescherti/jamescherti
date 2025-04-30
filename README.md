@@ -100,6 +100,8 @@
 
 - **[ansible-role-gitolite](https://github.com/jamescherti/ansible-role-gitolite)**: An Ansible role that installs and configures Gitolite for managing Git repositories and access control on remote servers.
 
+- **[ansible-role-apt](https://github.com/jamescherti/ansible-role-apt)**: An Ansible role that manages the APT configuration and updates the /etc/apt/sources.list for Debian and Ubuntu systems.
+
 - **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
