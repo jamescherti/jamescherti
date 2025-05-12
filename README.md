@@ -32,19 +32,19 @@
 
 - **[elispcomp](https://github.com/jamescherti/elispcomp)**: A command line tool that allows compiling Elisp code directly from the terminal or from a shell script. It facilitates the generation of optimized .elc (byte-compiled) and .eln (native-compiled) files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/elispcomp?style=social">
 
-- **[ultyas](https://github.com/jamescherti/ultyas)**: Ultyas is a command-line tool designed to simplify the process of converting code snippets from UltiSnips to YASnippet format. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/ultyas?style=social">
-
 - **[enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el)**: An Emacs package that prevents parenthesis imbalance when using *evil-mode* with *paredit*. It intercepts *evil-mode* commands such as delete, change, and paste, blocking their execution if they would break the parenthetical structure. <img align="right" alt="Workflow" src="https://github.com/jamescherti/enhanced-evil-paredit.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/enhanced-evil-paredit.el?style=social">
 
+- **[ultyas](https://github.com/jamescherti/ultyas)**: Ultyas is a command-line tool designed to simplify the process of converting code snippets from UltiSnips to YASnippet format. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/ultyas?style=social">
+
 - **[quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el)**: This package enables Emacs to function as an offline dictionary by using the sdcv command-line tool directly within Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/quick-sdcv.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/quick-sdcv.el?style=social">
+
+- **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
+
+- **[persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el)**: An Emacs package ensures that the built-in text-scale-mode text scale is persisted and restored. <img align="right" alt="Workflow" src="https://github.com/jamescherti/persist-text-scale.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/persist-text-scale.el?style=social">
 
 - **[inhibit-mouse.el](https://github.com/jamescherti/inhibit-mouse.el)**: A package that disables mouse input in Emacs, offering a simpler and faster alternative to the disable-mouse package. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/inhibit-mouse.el?style=social">
 
 - **[stripspace.el](https://github.com/jamescherti/stripspace.el)**: Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column. <img align="right" alt="Workflow" src="https://github.com/jamescherti/stripspace.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/stripspace.el?style=social">
-
-- **[persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el)**: An Emacs package ensures that the built-in text-scale-mode text scale is persisted and restored. <img align="right" alt="Workflow" src="https://github.com/jamescherti/persist-text-scale.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/persist-text-scale.el?style=social">
-
-- **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
 
 - **[bufferfile.el](https://github.com/jamescherti/bufferfile.el)**: An Emacs package that offers a suite of helper functions for deleting and renaming files. It also ensures that all associated buffers, including indirect buffers, are properly handled during these operations. <img align="right" alt="Workflow" src="https://github.com/jamescherti/bufferfile.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bufferfile.el?style=social">
 
