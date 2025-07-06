@@ -104,6 +104,8 @@
 
 - **[ansible-role-apt](https://github.com/jamescherti/ansible-role-apt)**: An Ansible role that manages the APT configuration and updates the /etc/apt/sources.list for Debian and Ubuntu systems.
 
+- **[ansible-role-apt-upgrade](https://github.com/jamescherti/ansible-role-apt-upgrade)**: An Ansible role for automated upgrades of Debian-based systems (e.g., Ubuntu, Debian, Linux Mint).
+
 - **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
