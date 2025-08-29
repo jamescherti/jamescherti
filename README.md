@@ -106,6 +106,8 @@
 
 - **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
 
+- **[pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)**: This repository offers a collection of pre-commit hooks specifically for Emacs Lisp (Elisp) projects. These hooks enforce code quality and consistency by performing automated checks on .el files prior to committing changes.
+
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
 ![jamescherti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamescherti&theme=default&show_icons=true&hide_border=true&layout=compact)
