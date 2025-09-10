@@ -48,6 +48,8 @@
 
 - **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
 
+- **[pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)**: This repository offers a collection of pre-commit hooks specifically for Emacs Lisp (Elisp) projects. These hooks enforce code quality and consistency by performing automated checks on .el files prior to committing changes. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-pre-commit-elisp.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-pre-commit-elisp.el?style=social">
+
 - **[flymake-ansible-lint.el](https://github.com/jamescherti/flymake-ansible-lint.el)**: The flymake-ansible-lint Emacs package provides a Flymake backend for ansible-lint. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-ansible-lint.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-ansible-lint.el?style=social">
 
 - **[vim-tomorrow-night-deepblue](https://github.com/jamescherti/vim-tomorrow-night-deepblue)**: The Vim color scheme Tomorrow Night Deepblue is a beautiful deep blue variant of the Tomorrow Night color scheme. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tomorrow-night-deepblue?style=social">
@@ -105,8 +107,6 @@
 - **[ansible-role-apt-upgrade](https://github.com/jamescherti/ansible-role-apt-upgrade)**: An Ansible role for automated upgrades of Debian-based systems (e.g., Ubuntu, Debian, Linux Mint).
 
 - **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
-
-- **[pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)**: This repository offers a collection of pre-commit hooks specifically for Emacs Lisp (Elisp) projects. These hooks enforce code quality and consistency by performing automated checks on .el files prior to committing changes.
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
