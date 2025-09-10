@@ -42,9 +42,9 @@
 
 - **[inhibit-mouse.el](https://github.com/jamescherti/inhibit-mouse.el)**: A package that disables mouse input in Emacs, offering a simpler and faster alternative to the disable-mouse package. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/inhibit-mouse.el?style=social">
 
-- **[stripspace.el](https://github.com/jamescherti/stripspace.el)**: Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column. <img align="right" alt="Workflow" src="https://github.com/jamescherti/stripspace.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/stripspace.el?style=social">
-
 - **[bash-stdops](https://github.com/jamescherti/bash-stdops)**: A collection of helpful Bash scripts that simplify various operations, including file searching, text replacement, and content modification. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bash-stdops?style=social">
+
+- **[stripspace.el](https://github.com/jamescherti/stripspace.el)**: Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column. <img align="right" alt="Workflow" src="https://github.com/jamescherti/stripspace.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/stripspace.el?style=social">
 
 - **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
 
