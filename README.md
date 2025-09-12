@@ -32,9 +32,9 @@
 
 - **[watch-xfce-xfconf](https://github.com/jamescherti/watch-xfce-xfconf)**: Configure XFCE 4 programmatically using the xfconf-query commands displayed by *watch-xfce-xfconf* when XFCE 4 settings are modified. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/watch-xfce-xfconf?style=social">
 
-- **[elispcomp](https://github.com/jamescherti/elispcomp)**: A command line tool that allows compiling Elisp code directly from the terminal or from a shell script. It facilitates the generation of optimized .elc (byte-compiled) and .eln (native-compiled) files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/elispcomp?style=social">
-
 - **[bufferfile.el](https://github.com/jamescherti/bufferfile.el)**: An Emacs package that offers a suite of helper functions for deleting and renaming files. It also ensures that all associated buffers, including indirect buffers, are properly handled during these operations. <img align="right" alt="Workflow" src="https://github.com/jamescherti/bufferfile.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bufferfile.el?style=social">
+
+- **[elispcomp](https://github.com/jamescherti/elispcomp)**: A command line tool that allows compiling Elisp code directly from the terminal or from a shell script. It facilitates the generation of optimized .elc (byte-compiled) and .eln (native-compiled) files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/elispcomp?style=social">
 
 - **[quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el)**: This package enables Emacs to function as an offline dictionary by using the sdcv command-line tool directly within Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/quick-sdcv.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/quick-sdcv.el?style=social">
 
@@ -54,9 +54,9 @@
 
 - **[vim-tomorrow-night-deepblue](https://github.com/jamescherti/vim-tomorrow-night-deepblue)**: The Vim color scheme Tomorrow Night Deepblue is a beautiful deep blue variant of the Tomorrow Night color scheme. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tomorrow-night-deepblue?style=social">
 
-- **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
-
 - **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters. <img align="right" alt="Workflow" src="https://github.com/jamescherti/org-ibullets.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/org-ibullets.el?style=social">
+
+- **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
 
 - **[be-quiet.el](https://github.com/jamescherti/be-quiet.el)**: The be-quiet Emacs package helps manage and minimize unwanted output in your Emacs environment. It is useful in contexts where controlling or suppressing verbosity is required. <img align="right" alt="Workflow" src="https://github.com/jamescherti/be-quiet.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/be-quiet.el?style=social">
 
