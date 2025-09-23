@@ -36,9 +36,9 @@
 
 - **[elispcomp](https://github.com/jamescherti/elispcomp)**: A command line tool that allows compiling Elisp code directly from the terminal or from a shell script. It facilitates the generation of optimized .elc (byte-compiled) and .eln (native-compiled) files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/elispcomp?style=social">
 
-- **[quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el)**: This package enables Emacs to function as an offline dictionary by using the sdcv command-line tool directly within Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/quick-sdcv.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/quick-sdcv.el?style=social">
-
 - **[persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el)**: An Emacs package ensures that the built-in text-scale-mode text scale is persisted and restored. <img align="right" alt="Workflow" src="https://github.com/jamescherti/persist-text-scale.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/persist-text-scale.el?style=social">
+
+- **[quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el)**: This package enables Emacs to function as an offline dictionary by using the sdcv command-line tool directly within Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/quick-sdcv.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/quick-sdcv.el?style=social">
 
 - **[inhibit-mouse.el](https://github.com/jamescherti/inhibit-mouse.el)**: A package that disables mouse input in Emacs, offering a simpler and faster alternative to the disable-mouse package. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/inhibit-mouse.el?style=social">
 
@@ -68,7 +68,7 @@
 
 - **[batchfetch](https://github.com/jamescherti/batchfetch)**: A command-line tool for cloning, fetching, and merging multiple Git repositories simultaneously. Batchfetch eliminates the need to manage each repository individually by automating repetitive Git operations. It performs tasks in parallel, significantly accelerating the cloning process. Batchfetch also detects whether a fetch is necessary, reducing unnecessary operations and improving efficiency when downloading repository data.
 
-- **[jc-xfce-settings](https://github.com/jamescherti/jc-xfce-settings)**: This project provides the *jc-xfce-settings.sh* script, which holds James Cherti's settings to customize the XFCE desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/jc-xfce-settings?style=social">
+- **[jc-xfce-settings](https://github.com/jamescherti/jc-xfce-settings)**: This project provides the *jc-xfce-settings.sh* script, which holds James Cherti's settings to customize the XFCE desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience.
 
 - **[jc-gnome-settings](https://github.com/jamescherti/jc-gnome-settings)**: This repository holds James Cherti's settings to customize the GNOME desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience.
 
