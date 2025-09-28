@@ -90,7 +90,7 @@
 
 - **[buffer-wizard.el](https://github.com/jamescherti/buffer-wizard.el)**: An Emacs package offers a suite of buffer related helper functions. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-wizard.el/actions/workflows/ci.yml/badge.svg">
 
-- **[minimal-vim-config](https://github.com/jamescherti/minimal-vim-config)**: The minimal-vim-config project is a Vim configuration that is intended to serve as a solid foundation for a Vim configuration. The author began developing this configuration upon first adopting Vim and has continuously refined it over 25 years of research and testing to identify the most effective parameters and optimizations for a Vim configuration file.
+- **[Lightvim](https://github.com/jamescherti/lightvim)**: The Lightvim project is a Vim configuration that is intended to serve as a solid foundation for a Vim configuration. The author began developing this configuration upon first adopting Vim and has continuously refined it over 25 years of research and testing to identify the most effective parameters and optimizations for a Vim configuration file.
 
 - **[pdfcipher](https://github.com/jamescherti/pdfcipher)**: A command-line tool enables encrypting and decrypting PDF files with robust password-based encryption. It allows users to set and remove passwords, ensuring secure access and distribution of PDF documents.
 
