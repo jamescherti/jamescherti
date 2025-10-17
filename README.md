@@ -54,6 +54,8 @@
 
 - **[vim-tomorrow-night-deepblue](https://github.com/jamescherti/vim-tomorrow-night-deepblue)**: The Vim color scheme Tomorrow Night Deepblue is a beautiful deep blue variant of the Tomorrow Night color scheme. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tomorrow-night-deepblue?style=social">
 
+- **[quick-fasd.el](https://github.com/jamescherti/quick-fasd.el)**: An Emacs package to integrate Fasd. Fasd is a command-line productivity booster that offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
+
 - **[org-ibullets.el](https://github.com/jamescherti/org-ibullets.el)**: A minor mode for Emacs that enhances Org mode by displaying heading bullets as UTF-8 characters. <img align="right" alt="Workflow" src="https://github.com/jamescherti/org-ibullets.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/org-ibullets.el?style=social">
 
 - **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
@@ -79,8 +81,6 @@
 - **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim.
 
 - **[ultisnips-mode.el](https://github.com/jamescherti/ultisnips-mode.el)**: An Emacs major mode for editing Ultisnips snippet files. This mode provides syntax highlighting to facilitate editing Ultisnips snippets.
-
-- **[quick-fasd.el](https://github.com/jamescherti/quick-fasd.el)**: An Emacs package to integrate Fasd. Fasd is a command-line productivity booster that offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 
 - **[git-smartmv](https://github.com/jamescherti/git-smartmv)**: A command-line tool that intelligently moves files and directories by automatically choosing between 'git mv' and 'mv' depending on the source and destination paths.
 
