@@ -82,6 +82,8 @@
 
 - **[ultisnips-mode.el](https://github.com/jamescherti/ultisnips-mode.el)**: An Emacs major mode for editing Ultisnips snippet files. This mode provides syntax highlighting to facilitate editing Ultisnips snippets.
 
+- **[kirigami.el](https://github.com/jamescherti/kirigami.el)**: A unified interface for text folding across a diverse set of major and minor modes in Emacs.
+
 - **[git-smartmv](https://github.com/jamescherti/git-smartmv)**: A command-line tool that intelligently moves files and directories by automatically choosing between 'git mv' and 'mv' depending on the source and destination paths.
 
 - **[vim-hjklmode](https://github.com/jamescherti/vim-hjklmode)**: Add hjkl navigation to all Vim modes. This Vim plugin will help you to break the habit of using the keys that make you move your hand away from the touch type position.
