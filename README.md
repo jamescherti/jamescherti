@@ -22,6 +22,8 @@
 
 - **[buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el)**: A package that automatically kills buffers to help maintain a clean and efficient workspace, while also improving Emacs' performance by reducing the number of open buffers, thereby decreasing the number of active modes, timers, and other processes associated with those buffers. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-terminator.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/buffer-terminator.el?style=social">
 
+- **[kirigami.el](https://github.com/jamescherti/kirigami.el)**: A unified interface for text folding across a diverse set of major and minor modes in Emacs.
+
 - **[vim-tab-bar.el](https://github.com/jamescherti/vim-tab-bar.el)**: An Emacs package that enhances the built-in tab-bar with a minimalist, Vim-inspired design that automatically adapts to the current Emacs theme as well as any themes loaded subsequently. This ensures the *tab-bar* integrates with the rest of the Emacs interface, eliminating visual conflicts and making it feel like a natural extension of your Emacs environment. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tab-bar.el?style=social">
 
 - **[dir-config.el](https://github.com/jamescherti/dir-config.el)**: Automatically find and evaluate .dir-config.el Elisp files to configure directory-specific settings. <img align="right" alt="Workflow" src="https://github.com/jamescherti/dir-config.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/dir-config.el?style=social">
@@ -81,8 +83,6 @@
 - **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim.
 
 - **[ultisnips-mode.el](https://github.com/jamescherti/ultisnips-mode.el)**: An Emacs major mode for editing Ultisnips snippet files. This mode provides syntax highlighting to facilitate editing Ultisnips snippets.
-
-- **[kirigami.el](https://github.com/jamescherti/kirigami.el)**: A unified interface for text folding across a diverse set of major and minor modes in Emacs.
 
 - **[git-smartmv](https://github.com/jamescherti/git-smartmv)**: A command-line tool that intelligently moves files and directories by automatically choosing between 'git mv' and 'mv' depending on the source and destination paths.
 
