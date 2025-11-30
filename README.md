@@ -48,9 +48,9 @@
 
 - **[bash-stdops](https://github.com/jamescherti/bash-stdops)**: A collection of helpful Bash scripts that simplify various operations, including file searching, text replacement, and content modification. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bash-stdops?style=social">
 
-- **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
-
 - **[flymake-ansible-lint.el](https://github.com/jamescherti/flymake-ansible-lint.el)**: The flymake-ansible-lint Emacs package provides a Flymake backend for ansible-lint. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-ansible-lint.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-ansible-lint.el?style=social">
+
+- **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
 
 - **[pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)**: This repository offers a collection of pre-commit hooks specifically for Emacs Lisp (Elisp) projects. These hooks enforce code quality and consistency by performing automated checks on .el files prior to committing changes. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pre-commit-elisp?style=social">
 
@@ -64,13 +64,13 @@
 
 - **[be-quiet.el](https://github.com/jamescherti/be-quiet.el)**: The be-quiet Emacs package helps manage and minimize unwanted output in your Emacs environment. It is useful in contexts where controlling or suppressing verbosity is required. <img align="right" alt="Workflow" src="https://github.com/jamescherti/be-quiet.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/be-quiet.el?style=social">
 
-- **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions... <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-client?style=social">
-
-- **[cherrybuckle](https://github.com/jamescherti/cherrybuckle)**: Cherry MX Blue mechanical keyboard simulator (Compatible with: Linux and MacOS). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/cherrybuckle?style=social">
-
 - **[jc-dotfiles](https://github.com/jamescherti/jc-dotfiles)**: This repository houses James Cherti's dotfiles and configuration scripts.
 
 - **[batchfetch](https://github.com/jamescherti/batchfetch)**: A command-line tool for cloning, fetching, and merging multiple Git repositories simultaneously. Batchfetch eliminates the need to manage each repository individually by automating repetitive Git operations. It performs tasks in parallel, significantly accelerating the cloning process. Batchfetch also detects whether a fetch is necessary, reducing unnecessary operations and improving efficiency when downloading repository data.
+
+- **[cherrybuckle](https://github.com/jamescherti/cherrybuckle)**: Cherry MX Blue mechanical keyboard simulator (Compatible with: Linux and MacOS). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/cherrybuckle?style=social">
+
+- **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions... <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-client?style=social">
 
 - **[jc-xfce-settings](https://github.com/jamescherti/jc-xfce-settings)**: This project provides the *jc-xfce-settings.sh* script, which holds James Cherti's settings to customize the XFCE desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience.
 
