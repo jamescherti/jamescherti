@@ -6,10 +6,6 @@
 - **[Reddit: James Cherti](https://www.reddit.com/user/jamescherti/)**
 - **[X: James Cherti](https://x.com/jamescherti)**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamescherti&title=Stars,Commits,Repositories,PullRequest&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamescherti&show_icons=true&theme=default)
-
 ### Projects
 
 - **[minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d)**: A customizable Emacs base that provides **better Emacs defaults and optimized startup**, intended to serve as a solid foundation for your vanilla Emacs configuration. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=social">
@@ -111,8 +107,6 @@
 - **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
-
-![jamescherti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamescherti&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=jamescherti&style=for-the-badge&color=orange" alt=""/>
