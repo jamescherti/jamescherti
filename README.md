@@ -38,9 +38,9 @@
 
 - **[watch-xfce-xfconf](https://github.com/jamescherti/watch-xfce-xfconf)**: Configure XFCE 4 programmatically using the xfconf-query commands displayed by *watch-xfce-xfconf* when XFCE 4 settings are modified. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/watch-xfce-xfconf?style=social">
 
-- **[persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el)**: An Emacs package ensures that the built-in text-scale-mode text scale is persisted and restored. <img align="right" alt="Workflow" src="https://github.com/jamescherti/persist-text-scale.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/persist-text-scale.el?style=social">
-
 - **[quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el)**: This package enables Emacs to function as an offline dictionary by using the sdcv command-line tool directly within Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/quick-sdcv.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/quick-sdcv.el?style=social">
+
+- **[persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el)**: An Emacs package ensures that the built-in text-scale-mode text scale is persisted and restored. <img align="right" alt="Workflow" src="https://github.com/jamescherti/persist-text-scale.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/persist-text-scale.el?style=social">
 
 - **[pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)**: This repository offers a collection of pre-commit hooks specifically for Emacs Lisp (Elisp) projects. These hooks enforce code quality and consistency by performing automated checks on .el files prior to committing changes. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pre-commit-elisp?style=social">
 
