@@ -42,8 +42,6 @@
 
 - **[persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el)**: An Emacs package ensures that the built-in text-scale-mode text scale is persisted and restored. <img align="right" alt="Workflow" src="https://github.com/jamescherti/persist-text-scale.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/persist-text-scale.el?style=social">
 
-- **[ultisnips-mode.el](https://github.com/jamescherti/ultisnips-mode.el)**: An Emacs major mode for editing Ultisnips snippet files. This mode provides syntax highlighting to facilitate editing Ultisnips snippets.
-
 - **[pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)**: This repository offers a collection of pre-commit hooks specifically for Emacs Lisp (Elisp) projects. These hooks enforce code quality and consistency by performing automated checks on .el files prior to committing changes. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pre-commit-elisp?style=social">
 
 - **[bash-stdops](https://github.com/jamescherti/bash-stdops)**: A collection of helpful Bash scripts that simplify various operations, including file searching, text replacement, and content modification. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bash-stdops?style=social">
@@ -79,6 +77,8 @@
 - **[pathaction.el](https://github.com/jamescherti/pathaction.el)**: An Emacs package that allows executing the pathaction command-line tool directly from Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/pathaction.el/actions/workflows/ci.yml/badge.svg">
 
 - **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim.
+
+- **[ultisnips-mode.el](https://github.com/jamescherti/ultisnips-mode.el)**: An Emacs major mode for editing Ultisnips snippet files. This mode provides syntax highlighting to facilitate editing Ultisnips snippets.
 
 - **[git-smartmv](https://github.com/jamescherti/git-smartmv)**: A command-line tool that intelligently moves files and directories by automatically choosing between 'git mv' and 'mv' depending on the source and destination paths.
 
