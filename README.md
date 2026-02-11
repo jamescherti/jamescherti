@@ -80,17 +80,11 @@
 
 - **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim.
 
+- **[Lightvim](https://github.com/jamescherti/lightvim)**: The Lightvim project is a Vim configuration that is intended to serve as a solid foundation for a Vim configuration. The author began developing this configuration upon first adopting Vim and has continuously refined it over 25 years of research and testing to identify the most effective parameters and optimizations for a Vim configuration file.
+
 - **[git-smartmv](https://github.com/jamescherti/git-smartmv)**: A command-line tool that intelligently moves files and directories by automatically choosing between 'git mv' and 'mv' depending on the source and destination paths.
 
 - **[vim-hjklmode](https://github.com/jamescherti/vim-hjklmode)**: Add hjkl navigation to all Vim modes. This Vim plugin will help you to break the habit of using the keys that make you move your hand away from the touch type position.
-
-- **[git-commitflow](https://github.com/jamescherti/git-commitflow)**: A command-line interface that assists with the Git operations of adding, viewing differences, committing changes, and pushing updates. One significant benefit of the git-commitflow tool is that it enhances the user's awareness and control over their changes before committing.
-
-- **[buffer-wizard.el](https://github.com/jamescherti/buffer-wizard.el)**: An Emacs package offers a suite of buffer related helper functions. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-wizard.el/actions/workflows/ci.yml/badge.svg">
-
-- **[Lightvim](https://github.com/jamescherti/lightvim)**: The Lightvim project is a Vim configuration that is intended to serve as a solid foundation for a Vim configuration. The author began developing this configuration upon first adopting Vim and has continuously refined it over 25 years of research and testing to identify the most effective parameters and optimizations for a Vim configuration file.
-
-- **[pdfcipher](https://github.com/jamescherti/pdfcipher)**: A command-line tool enables encrypting and decrypting PDF files with robust password-based encryption. It allows users to set and remove passwords, ensuring secure access and distribution of PDF documents.
 
 - **[ansible-role-tuned](https://github.com/jamescherti/ansible-role-tuned)**: An Ansible playbook that manages the installation, configuration, and activation of the tuned service.
 
@@ -99,6 +93,12 @@
 - **[ansible-role-flatpak](https://github.com/jamescherti/ansible-role-flatpak)**: An Ansible role that installs and configures Flatpak, adds Flathub as a remote repository, and optionally manages Flatpak packages and updates.
 
 - **[ansible-role-gitolite](https://github.com/jamescherti/ansible-role-gitolite)**: An Ansible role that installs and configures Gitolite for managing Git repositories and access control on remote servers.
+
+- **[pdfcipher](https://github.com/jamescherti/pdfcipher)**: A command-line tool enables encrypting and decrypting PDF files with robust password-based encryption. It allows users to set and remove passwords, ensuring secure access and distribution of PDF documents.
+
+- **[git-commitflow](https://github.com/jamescherti/git-commitflow)**: A command-line interface that assists with the Git operations of adding, viewing differences, committing changes, and pushing updates. One significant benefit of the git-commitflow tool is that it enhances the user's awareness and control over their changes before committing.
+
+- **[buffer-wizard.el](https://github.com/jamescherti/buffer-wizard.el)**: An Emacs package offers a suite of buffer related helper functions. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-wizard.el/actions/workflows/ci.yml/badge.svg">
 
 - **[ansible-role-apt](https://github.com/jamescherti/ansible-role-apt)**: An Ansible role that manages the APT configuration and updates the /etc/apt/sources.list for Debian and Ubuntu systems.
 
