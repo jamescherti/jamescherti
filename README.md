@@ -42,11 +42,11 @@
 
 - **[persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el)**: An Emacs package ensures that the built-in text-scale-mode text scale is persisted and restored. <img align="right" alt="Workflow" src="https://github.com/jamescherti/persist-text-scale.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/persist-text-scale.el?style=social">
 
-- **[pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)**: This repository offers a collection of pre-commit hooks specifically for Emacs Lisp (Elisp) projects. These hooks enforce code quality and consistency by performing automated checks on .el files prior to committing changes. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pre-commit-elisp?style=social">
-
 - **[bash-stdops](https://github.com/jamescherti/bash-stdops)**: A collection of helpful Bash scripts that simplify various operations, including file searching, text replacement, and content modification. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bash-stdops?style=social">
 
 - **[flymake-ansible-lint.el](https://github.com/jamescherti/flymake-ansible-lint.el)**: The flymake-ansible-lint Emacs package provides a Flymake backend for ansible-lint. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-ansible-lint.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-ansible-lint.el?style=social">
+
+- **[pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)**: This repository offers a collection of pre-commit hooks specifically for Emacs Lisp (Elisp) projects. These hooks enforce code quality and consistency by performing automated checks on .el files prior to committing changes. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pre-commit-elisp?style=social">
 
 - **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
 
