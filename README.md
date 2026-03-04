@@ -58,6 +58,8 @@
 
 - **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
 
+- **[pathaction](https://github.com/jamescherti/pathaction)**: A command-line tool that enables the execution of specific commands on targeted files or directories. Useful for developers, Emacs users, Vim users... Its key advantage lies in its flexibility, allowing users to handle various types of files (such as source code, text files, images, videos, configuration files, and more) simply by passing the file or directory as an argument to the pathaction tool. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pathaction?style=social">
+
 - **[be-quiet.el](https://github.com/jamescherti/be-quiet.el)**: The be-quiet Emacs package helps manage and minimize unwanted output in your Emacs environment. It is useful in contexts where controlling or suppressing verbosity is required. <img align="right" alt="Workflow" src="https://github.com/jamescherti/be-quiet.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/be-quiet.el?style=social">
 
 - **[jc-dotfiles](https://github.com/jamescherti/jc-dotfiles)**: This repository houses James Cherti's dotfiles and configuration scripts.
@@ -73,8 +75,6 @@
 - **[jc-xfce-settings](https://github.com/jamescherti/jc-xfce-settings)**: This project provides the *jc-xfce-settings.sh* script, which holds James Cherti's settings to customize the XFCE desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience.
 
 - **[jc-gnome-settings](https://github.com/jamescherti/jc-gnome-settings)**: This repository holds James Cherti's settings to customize the GNOME desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience.
-
-- **[pathaction](https://github.com/jamescherti/pathaction)**: A command-line tool that enables the execution of specific commands on targeted files or directories. Useful for developers, Emacs users, Vim users... Its key advantage lies in its flexibility, allowing users to handle various types of files (such as source code, text files, images, videos, configuration files, and more) simply by passing the file or directory as an argument to the pathaction tool. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pathaction?style=social">
 
 - **[pathaction.el](https://github.com/jamescherti/pathaction.el)**: An Emacs package that allows executing the pathaction command-line tool directly from Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/pathaction.el/actions/workflows/ci.yml/badge.svg">
 
