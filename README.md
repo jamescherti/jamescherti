@@ -108,6 +108,9 @@
 
 - **[update-iptables](https://github.com/jamescherti/update-iptables)**: A low-level Linux firewall for advanced users, providing precise control over network traffic and routing. It supports a modular configuration model via drop-in scripts in `/etc/update-iptables-rules.d/`, with each file executed sequentially during firewall initialization. Designed for system administrators who require precise control over packet states, network address translation, and custom routing chains, it defines rules directly through `iptables` without the abstraction layers used by modern firewall management tools.
 
+- **[easysession.el](https://github.com/jamescherti/buffer-guardian.el)**:
+The `buffer-guardian` package provides a global mode that automatically saves buffers without requiring manual intervention. By default, it saves a buffer when the user: switches to another buffer or window, Emacs loses focus, and the minibuffer is opened.
+
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
 <div id="header" align="center">
