@@ -64,11 +64,11 @@
 
 - **[jc-dotfiles](https://github.com/jamescherti/jc-dotfiles)**: This repository houses James Cherti's dotfiles and configuration scripts.
 
-- **[batchfetch](https://github.com/jamescherti/batchfetch)**: A command-line tool for cloning, fetching, and merging multiple Git repositories simultaneously. Batchfetch eliminates the need to manage each repository individually by automating repetitive Git operations. It performs tasks in parallel, significantly accelerating the cloning process. Batchfetch also detects whether a fetch is necessary, reducing unnecessary operations and improving efficiency when downloading repository data.
-
 - **[ultisnips-mode.el](https://github.com/jamescherti/ultisnips-mode.el)**: An Emacs major mode for editing Ultisnips snippet files. This mode provides syntax highlighting to facilitate editing Ultisnips snippets.
 
 - **[cherrybuckle](https://github.com/jamescherti/cherrybuckle)**: Cherry MX Blue mechanical keyboard simulator (Compatible with: Linux and MacOS). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/cherrybuckle?style=social">
+
+- **[batchfetch](https://github.com/jamescherti/batchfetch)**: A command-line tool for cloning, fetching, and merging multiple Git repositories simultaneously. Batchfetch eliminates the need to manage each repository individually by automating repetitive Git operations. It performs tasks in parallel, significantly accelerating the cloning process. Batchfetch also detects whether a fetch is necessary, reducing unnecessary operations and improving efficiency when downloading repository data.
 
 - **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions... <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-client?style=social">
 
