@@ -58,9 +58,9 @@
 
 - **[quick-fasd.el](https://github.com/jamescherti/quick-fasd.el)**: An Emacs package to integrate Fasd. Fasd is a command-line productivity booster that offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 
-- **[be-quiet.el](https://github.com/jamescherti/be-quiet.el)**: The be-quiet Emacs package helps manage and minimize unwanted output in your Emacs environment. It is useful in contexts where controlling or suppressing verbosity is required. <img align="right" alt="Workflow" src="https://github.com/jamescherti/be-quiet.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/be-quiet.el?style=social">
-
 - **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
+
+- **[be-quiet.el](https://github.com/jamescherti/be-quiet.el)**: The be-quiet Emacs package helps manage and minimize unwanted output in your Emacs environment. It is useful in contexts where controlling or suppressing verbosity is required. <img align="right" alt="Workflow" src="https://github.com/jamescherti/be-quiet.el/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/be-quiet.el?style=social">
 
 - **[jc-dotfiles](https://github.com/jamescherti/jc-dotfiles)**: This repository houses James Cherti's dotfiles and configuration scripts.
 
