@@ -80,7 +80,7 @@
 
 - **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim.
 
-- **[Lightvim](https://github.com/jamescherti/lightvim)**: The Lightvim project is a Vim configuration that is intended to serve as a solid foundation for a Vim configuration. The author began developing this configuration upon first adopting Vim and has continuously refined it over 25 years of research and testing to identify the most effective parameters and optimizations for a Vim configuration file.
+- **[lightvim](https://github.com/jamescherti/lightvim)**: The Lightvim project is a Vim configuration that is intended to serve as a solid foundation for a Vim configuration. The author began developing this configuration upon first adopting Vim and has continuously refined it over 25 years of research and testing to identify the most effective parameters and optimizations for a Vim configuration file.
 
 - **[git-smartmv](https://github.com/jamescherti/git-smartmv)**: A command-line tool that intelligently moves files and directories by automatically choosing between 'git mv' and 'mv' depending on the source and destination paths.
 
