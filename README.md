@@ -6,7 +6,7 @@
 - **[Reddit: James Cherti](https://www.reddit.com/user/jamescherti/)**
 - **[X: James Cherti](https://x.com/jamescherti)**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/jamescherti/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamescherti&title=Stars,Followers,Repositories,Commits,PullRequest,Issues)](https://github.com/jamescherti/github-profile-trophy)
 
 ### Projects
 
