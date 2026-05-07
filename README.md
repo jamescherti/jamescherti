@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamescherti&title=Stars,Followers,Repositories,Commits,PullRequest,Issues)](https://github.com/jamescherti/github-profile-trophy)
 
-For secure communication or to verify my Git commit signatures, you may use [my GPG key](https://www.jamescherti.com/misc/gpg-pub-key-james-cherti.asc).
+For secure communication or to verify my Git commit signatures, you may use [my GPG key](https://www.jamescherti.com/gpg-key/).
 
 ### Projects
 
