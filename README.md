@@ -5,6 +5,7 @@
 - Open source projects: **[GitHub: James Cherti](https://github.com/jamescherti)**
 - **[Reddit: James Cherti](https://www.reddit.com/user/jamescherti/)**
 - **[X: James Cherti](https://x.com/jamescherti)**
+- **[Mastodon: @jamescherti@mastodon.social](https://mastodon.social/@jamescherti)**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamescherti&title=Stars,Followers,Repositories,Commits,PullRequest,Issues)](https://github.com/jamescherti/github-profile-trophy)
 
