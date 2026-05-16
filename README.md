@@ -6,10 +6,9 @@
 - **[Reddit: James Cherti](https://www.reddit.com/user/jamescherti/)**
 - **[X: James Cherti](https://x.com/jamescherti)**
 - **[Mastodon: @jamescherti@mastodon.social](https://mastodon.social/@jamescherti)**
+- For secure communication or to verify my Git commit signatures, you may use [my GPG key](https://www.jamescherti.com/gpg-key/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamescherti&title=Stars,Followers,Repositories,Commits,PullRequest,Issues)](https://github.com/jamescherti/github-profile-trophy)
-
-For secure communication or to verify my Git commit signatures, you may use [my GPG key](https://www.jamescherti.com/gpg-key/).
 
 ### Projects
 
