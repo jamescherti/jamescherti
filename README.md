@@ -105,6 +105,8 @@
 
 - **[ansible-role-apt-upgrade](https://github.com/jamescherti/ansible-role-apt-upgrade)**: An Ansible role for automated upgrades of Debian-based systems (e.g., Ubuntu, Debian, Linux Mint).
 
+- **[ansible-cleanup](https://github.com/jamescherti/ansible-cleanup)**: Provides command-line tools to find and remove unused Ansible playbooks, tasks, group variables, and host variables.
+
 - **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
 
 - **[update-iptables](https://github.com/jamescherti/update-iptables)**: A low-level Linux firewall for advanced users, providing precise control over network traffic and routing. It supports a modular configuration model via drop-in scripts in `/etc/update-iptables-rules.d/`, with each file executed sequentially during firewall initialization. Designed for system administrators who require precise control over packet states, network address translation, and custom routing chains, it defines rules directly through `iptables` without the abstraction layers used by modern firewall management tools.
