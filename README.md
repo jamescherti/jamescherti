@@ -113,6 +113,8 @@
 
 - **[shell-pop](https://github.com/kyagi/shell-pop-el)**: I am the co-maintainer of *shell-pop*, an Emacs package that provides on-demand access to a terminal through a single, configurable key binding. The package supports multiple terminal implementations, including `term`, `eshell`, `ansi-term`, `vterm`, and `eat`, and ensures your original window configuration is restored when the terminal is hidden.
 
+- **[git-rexec](https://github.com/jamescherti/git-rexec)**: A command-line tool that recursively locates Git repositories within a directory and executes commands against them, either sequentially or in parallel.
+
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
 <div id="header" align="center">
