@@ -73,13 +73,17 @@
 
 - **[jc-xfce-settings](https://github.com/jamescherti/jc-xfce-settings)**: This project provides the *jc-xfce-settings.sh* script, which holds James Cherti's settings to customize the XFCE desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience.
 
+- **[git-rexec](https://github.com/jamescherti/git-rexec)**: A command-line tool that recursively locates Git repositories within a directory and executes commands against them, either sequentially or in parallel.
+
+- **[ansible-role-gitolite](https://github.com/jamescherti/ansible-role-gitolite)**: An Ansible role that installs and configures Gitolite for managing Git repositories and access control on remote servers.
+
+- **[lightvim](https://github.com/jamescherti/lightvim)**: The Lightvim project is a Vim configuration that is intended to serve as a solid foundation for a Vim configuration. The author began developing this configuration upon first adopting Vim and has continuously refined it over 25 years of research and testing to identify the most effective parameters and optimizations for a Vim configuration file.
+
 - **[jc-gnome-settings](https://github.com/jamescherti/jc-gnome-settings)**: This repository holds James Cherti's settings to customize the GNOME desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience.
 
 - **[pathaction.el](https://github.com/jamescherti/pathaction.el)**: An Emacs package that allows executing the pathaction command-line tool directly from Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/pathaction.el/actions/workflows/ci.yml/badge.svg">
 
 - **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim.
-
-- **[lightvim](https://github.com/jamescherti/lightvim)**: The Lightvim project is a Vim configuration that is intended to serve as a solid foundation for a Vim configuration. The author began developing this configuration upon first adopting Vim and has continuously refined it over 25 years of research and testing to identify the most effective parameters and optimizations for a Vim configuration file.
 
 - **[git-smartmv](https://github.com/jamescherti/git-smartmv)**: A command-line tool that intelligently moves files and directories by automatically choosing between 'git mv' and 'mv' depending on the source and destination paths.
 
@@ -90,8 +94,6 @@
 - **[ansible-role-reniced](https://github.com/jamescherti/ansible-role-reniced)**: An Ansible role that configures reniced on Debian and Ubuntu based operating systems.
 
 - **[ansible-role-flatpak](https://github.com/jamescherti/ansible-role-flatpak)**: An Ansible role that installs and configures Flatpak, adds Flathub as a remote repository, and optionally manages Flatpak packages and updates.
-
-- **[ansible-role-gitolite](https://github.com/jamescherti/ansible-role-gitolite)**: An Ansible role that installs and configures Gitolite for managing Git repositories and access control on remote servers.
 
 - **[pdfcipher](https://github.com/jamescherti/pdfcipher)**: A command-line tool enables encrypting and decrypting PDF files with robust password-based encryption. It allows users to set and remove passwords, ensuring secure access and distribution of PDF documents.
 
@@ -110,8 +112,6 @@
 - **[update-iptables](https://github.com/jamescherti/update-iptables)**: A low-level Linux firewall for advanced users, providing precise control over network traffic and routing. It supports a modular configuration model via drop-in scripts in `/etc/update-iptables-rules.d/`, with each file executed sequentially during firewall initialization. Designed for system administrators who require precise control over packet states, network address translation, and custom routing chains, it defines rules directly through `iptables` without the abstraction layers used by modern firewall management tools.
 
 - **[shell-pop](https://github.com/kyagi/shell-pop-el)**: I am the co-maintainer of *shell-pop*, an Emacs package that provides on-demand access to a terminal through a single, configurable key binding. The package supports multiple terminal implementations, including `term`, `eshell`, `ansi-term`, `vterm`, and `eat`, and ensures your original window configuration is restored when the terminal is hidden.
-
-- **[git-rexec](https://github.com/jamescherti/git-rexec)**: A command-line tool that recursively locates Git repositories within a directory and executes commands against them, either sequentially or in parallel.
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
