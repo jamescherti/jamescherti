@@ -99,7 +99,7 @@
 
 - **[git-commitflow](https://github.com/jamescherti/git-commitflow)**: A command-line interface that assists with the Git operations of adding, viewing differences, committing changes, and pushing updates. One significant benefit of the git-commitflow tool is that it enhances the user's awareness and control over their changes before committing.
 
-- **[buffer-wizard.el](https://github.com/jamescherti/buffer-wizard.el)**: An Emacs package offers a suite of buffer related helper functions. <img align="right" alt="Workflow" src="https://github.com/jamescherti/buffer-wizard.el/actions/workflows/ci.yml/badge.svg">
+- **[wizard.el](https://github.com/jamescherti/wizard.el)**: An Emacs package offers a suite of buffer related helper functions. <img align="right" alt="Workflow" src="https://github.com/jamescherti/wizard.el/actions/workflows/ci.yml/badge.svg">
 
 - **[ansible-role-apt](https://github.com/jamescherti/ansible-role-apt)**: An Ansible role that manages the APT configuration and updates the /etc/apt/sources.list for Debian and Ubuntu systems.
 
