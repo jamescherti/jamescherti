@@ -113,6 +113,8 @@
 
 - **[shell-pop](https://github.com/kyagi/shell-pop-el)**: I am the co-maintainer of *shell-pop*, an Emacs package that provides on-demand access to a terminal through a single, configurable key binding. The package supports multiple terminal implementations, including `term`, `eshell`, `ansi-term`, `vterm`, and `eat`, and ensures your original window configuration is restored when the terminal is hidden.
 
+- [efasd](https://github.com/jamescherti/efasd): `efasd` is an enhanced, modern fork of the classic fasd utility. It tracks your CLI navigation history using a "frecency" (frequency + recency) algorithm, allowing you to instantly jump to deeply nested files and directories with just a few keystrokes. Inspired by the legacy of autojump, z, and v, this version focuses on maintenance, reliability, and speed for modern shells.
+
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
 <div id="header" align="center">
