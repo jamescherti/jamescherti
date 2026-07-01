@@ -2,7 +2,6 @@
 
 - Website: **[https://www.jamescherti.com](https://www.jamescherti.com/)**
 - **[Open Source Projects by James Cherti](https://www.jamescherti.com/projects/)**
-- **[Open Source Contributions by James Cherti](https://www.jamescherti.com/open-source-contributions/)**
 
 ### Projects
 
