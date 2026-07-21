@@ -81,6 +81,8 @@
 
 - **[jc-gnome-settings](https://github.com/jamescherti/jc-gnome-settings)**: This repository holds James Cherti's settings to customize the GNOME desktop environment, including window management, notifications, desktop behavior, keyboard settings, and more, to enhance the user experience.
 
+- **[jc-firefox-settings](https://github.com/jamescherti/jc-firefox-settings)**: This project provides the a user.js file, which holds James Cherti's settings to customize the Firefox web browser to enhance the user experience and security.
+
 - **[pathaction.el](https://github.com/jamescherti/pathaction.el)**: An Emacs package that allows executing the pathaction command-line tool directly from Emacs. <img align="right" alt="Workflow" src="https://github.com/jamescherti/pathaction.el/actions/workflows/melpazoid.yml/badge.svg">
 
 - **[vim-pathaction](https://github.com/jamescherti/vim-pathaction)**: An Vim plugin that allows executing the pathaction command-line tool directly from Vim.
