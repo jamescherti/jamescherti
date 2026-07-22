@@ -1,7 +1,6 @@
 ### Hi there 👋 I am James Cherti
 
 - Website: **[https://www.jamescherti.com](https://www.jamescherti.com/)**
-- **[Open Source Projects by James Cherti](https://www.jamescherti.com/projects/)**
 
 ### Projects
 
