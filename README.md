@@ -116,6 +116,8 @@
 
 - **[efasd](https://github.com/jamescherti/efasd)**: `efasd` is an enhanced, modern fork of the classic fasd utility. It tracks your CLI navigation history using a "frecency" (frequency + recency) algorithm, allowing you to instantly jump to deeply nested files and directories with just a few keystrokes. Inspired by the legacy of autojump, z, and v, this version focuses on maintenance, reliability, and speed for modern shells.
 
+- **[single-window.el](https://github.com/jamescherti/single-window.el)**: The single-window package forces Emacs to open buffers in the current active window. It keeps your carefully arranged layouts intact, reduces visual clutter, and provides a much more predictable workflow. It also handles edge cases by configuring modes like org-mode (src blocks and agenda) to respect the current window.
+
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
 <div id="header" align="center">
