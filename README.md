@@ -1,9 +1,5 @@
 ### Hi there 👋 I am James Cherti
 
-- Website: **[https://www.jamescherti.com](https://www.jamescherti.com/)**
-
-### Projects
-
 - **[minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d)**: A lightweight and fast Emacs base (`init.el` and `early-init.el`) that provides better defaults, an optimized startup, and a clean foundation for building your own vanilla Emacs setup. In just a few minutes, you will possess a fully functional, high-performance Emacs configuration ready for work. You will bypass hours of configuration and the heavy overhead of frameworks like Doom or Spacemacs, gaining immediate access to a foundation featuring optimized garbage collection, sensible UI defaults, and a fast startup. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=social">
 
 - **[easysession.el](https://github.com/jamescherti/easysession.el)**: A comprehensive session management for Emacs. It is capable of persisting and restoring file-visiting buffers, indirect buffers (clones), buffer narrowing, Dired buffers, window configurations, the built-in tab-bar (including tabs, their buffers, and associated windows), as well as entire Emacs frames (frame name, size, position, etc.). This package is a robust desktop.el replacement. <img align="right" alt="Workflow" src="https://github.com/jamescherti/easysession.el/actions/workflows/melpazoid.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/easysession.el?style=social">
