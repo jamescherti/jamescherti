@@ -48,9 +48,13 @@
 
 - **[flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el)**: A package that provides a Flymake backend for the bashate Bash script style checker. <img align="right" alt="Workflow" src="https://github.com/jamescherti/flymake-bashate.el/actions/workflows/melpazoid.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/flymake-bashate.el?style=social">
 
+- **[single-window.el](https://github.com/jamescherti/single-window.el)**: The single-window package forces Emacs to open buffers in the current active window. It keeps your carefully arranged layouts intact, reduces visual clutter, and provides a much more predictable workflow. It also handles edge cases by configuring modes like org-mode (src blocks and agenda) to respect the current window.
+
 - **[vim-tomorrow-night-deepblue](https://github.com/jamescherti/vim-tomorrow-night-deepblue)**: The Vim color scheme Tomorrow Night Deepblue is a beautiful deep blue variant of the Tomorrow Night color scheme. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tomorrow-night-deepblue?style=social">
 
 - **[quick-fasd.el](https://github.com/jamescherti/quick-fasd.el)**: An Emacs package to integrate Fasd. Fasd is a command-line productivity booster that offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
+
+- **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
 
 - **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
 
@@ -104,15 +108,11 @@
 
 - **[ansible-cleanup](https://github.com/jamescherti/ansible-cleanup)**: Provides command-line tools to find and remove unused Ansible playbooks, tasks, group variables, and host variables.
 
-- **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
-
 - **[update-iptables](https://github.com/jamescherti/update-iptables)**: A low-level Linux firewall for advanced users, providing precise control over network traffic and routing. It supports a modular configuration model via drop-in scripts in `/etc/update-iptables-rules.d/`, with each file executed sequentially during firewall initialization. Designed for system administrators who require precise control over packet states, network address translation, and custom routing chains, it defines rules directly through `iptables` without the abstraction layers used by modern firewall management tools.
 
 - **[shell-pop](https://github.com/kyagi/shell-pop-el)**: I am the co-maintainer of *shell-pop*, an Emacs package that provides on-demand access to a terminal through a single, configurable key binding. The package supports multiple terminal implementations, including `term`, `eshell`, `ansi-term`, `vterm`, and `eat`, and ensures your original window configuration is restored when the terminal is hidden.
 
 - **[efasd](https://github.com/jamescherti/efasd)**: `efasd` is an enhanced, modern fork of the classic fasd utility. It tracks your CLI navigation history using a "frecency" (frequency + recency) algorithm, allowing you to instantly jump to deeply nested files and directories with just a few keystrokes. Inspired by the legacy of autojump, z, and v, this version focuses on maintenance, reliability, and speed for modern shells.
-
-- **[single-window.el](https://github.com/jamescherti/single-window.el)**: The single-window package forces Emacs to open buffers in the current active window. It keeps your carefully arranged layouts intact, reduces visual clutter, and provides a much more predictable workflow. It also handles edge cases by configuring modes like org-mode (src blocks and agenda) to respect the current window.
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
 
