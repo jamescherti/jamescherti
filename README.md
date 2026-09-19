@@ -104,14 +104,6 @@
 
 - **[vim-hjklmode](https://github.com/jamescherti/vim-hjklmode)**: Add hjkl navigation to all Vim modes. This Vim plugin will help you to break the habit of using the keys that make you move your hand away from the touch type position.
 
-## Bash scripts
-
-- **[update-iptables](https://github.com/jamescherti/update-iptables)**: A low-level Linux firewall for advanced users, providing precise control over network traffic and routing. It supports a modular configuration model via drop-in scripts in `/etc/update-iptables-rules.d/`, with each file executed sequentially during firewall initialization. Designed for system administrators who require precise control over packet states, network address translation, and custom routing chains, it defines rules directly through `iptables` without the abstraction layers used by modern firewall management tools.
-
-- **[bash-stdops](https://github.com/jamescherti/bash-stdops)**: A collection of helpful Bash scripts that simplify various operations, including file searching, text replacement, and content modification. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bash-stdops?style=social">
-
-- **[efasd](https://github.com/jamescherti/efasd)**: `efasd` is an enhanced, modern fork of the classic fasd utility. It tracks your CLI navigation history using a "frecency" (frequency + recency) algorithm, allowing you to instantly jump to deeply nested files and directories with just a few keystrokes. Inspired by the legacy of autojump, z, and v, this version focuses on maintenance, reliability, and speed for modern shells.
-
 ## Dotfiles and shell scripts
 
 - **[jc-dotfiles](https://github.com/jamescherti/jc-dotfiles)**: This repository houses James Cherti's dotfiles and configuration scripts.
@@ -123,6 +115,12 @@
 - **[jc-firefox-settings](https://github.com/jamescherti/jc-firefox-settings)**: This project provides the a user.js file, which holds James Cherti's settings to customize the Firefox web browser to enhance the user experience and security.
 
 ## Linux
+
+- **[bash-stdops](https://github.com/jamescherti/bash-stdops)**: A collection of helpful Bash scripts that simplify various operations, including file searching, text replacement, and content modification. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/bash-stdops?style=social">
+
+- **[update-iptables](https://github.com/jamescherti/update-iptables)**: A low-level Linux firewall for advanced users, providing precise control over network traffic and routing. It supports a modular configuration model via drop-in scripts in `/etc/update-iptables-rules.d/`, with each file executed sequentially during firewall initialization. Designed for system administrators who require precise control over packet states, network address translation, and custom routing chains, it defines rules directly through `iptables` without the abstraction layers used by modern firewall management tools.
+
+- **[efasd](https://github.com/jamescherti/efasd)**: `efasd` is an enhanced, modern fork of the classic fasd utility. It tracks your CLI navigation history using a "frecency" (frequency + recency) algorithm, allowing you to instantly jump to deeply nested files and directories with just a few keystrokes. Inspired by the legacy of autojump, z, and v, this version focuses on maintenance, reliability, and speed for modern shells.
 
 - **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
 
