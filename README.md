@@ -56,13 +56,13 @@
 
 ## Python
 
-- **[pathaction](https://github.com/jamescherti/pathaction)**: A command-line tool that enables the execution of specific commands on targeted files or directories. Useful for developers, Emacs users, Vim users... Its key advantage lies in its flexibility, allowing users to handle various types of files (such as source code, text files, images, videos, configuration files, and more) simply by passing the file or directory as an argument to the pathaction tool. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pathaction?style=social">
-
 - **[watch-xfce-xfconf](https://github.com/jamescherti/watch-xfce-xfconf)**: Configure XFCE 4 programmatically using the xfconf-query commands displayed by *watch-xfce-xfconf* when XFCE 4 settings are modified. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/watch-xfce-xfconf?style=social">
 
-- **[pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)**: This repository offers a collection of pre-commit hooks specifically for Emacs Lisp (Elisp) projects. These hooks enforce code quality and consistency by performing automated checks on .el files prior to committing changes. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pre-commit-elisp?style=social">
+- **[pathaction](https://github.com/jamescherti/pathaction)**: A command-line tool that enables the execution of specific commands on targeted files or directories. Useful for developers, Emacs users, Vim users... Its key advantage lies in its flexibility, allowing users to handle various types of files (such as source code, text files, images, videos, configuration files, and more) simply by passing the file or directory as an argument to the pathaction tool. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pathaction?style=social">
 
 - **[elispcomp](https://github.com/jamescherti/elispcomp)**: A command line tool that allows compiling Elisp code directly from the terminal or from a shell script. It facilitates the generation of optimized .elc (byte-compiled) and .eln (native-compiled) files. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/elispcomp?style=social">
+
+- **[pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)**: This repository offers a collection of pre-commit hooks specifically for Emacs Lisp (Elisp) projects. These hooks enforce code quality and consistency by performing automated checks on .el files prior to committing changes. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/pre-commit-elisp?style=social">
 
 - **[batchfetch](https://github.com/jamescherti/batchfetch)**: A command-line tool for cloning, fetching, and merging multiple Git repositories simultaneously. Batchfetch eliminates the need to manage each repository individually by automating repetitive Git operations. It performs tasks in parallel, significantly accelerating the cloning process. Batchfetch also detects whether a fetch is necessary, reducing unnecessary operations and improving efficiency when downloading repository data.
 
