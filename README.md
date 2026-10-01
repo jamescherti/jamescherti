@@ -66,6 +66,8 @@
 
 - **[batchfetch](https://github.com/jamescherti/batchfetch)**: A command-line tool for cloning, fetching, and merging multiple Git repositories simultaneously. Batchfetch eliminates the need to manage each repository individually by automating repetitive Git operations. It performs tasks in parallel, significantly accelerating the cloning process. Batchfetch also detects whether a fetch is necessary, reducing unnecessary operations and improving efficiency when downloading repository data.
 
+- **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions...
+
 - **[pdfcipher](https://github.com/jamescherti/pdfcipher)**: A command-line tool enables encrypting and decrypting PDF files with robust password-based encryption. It allows users to set and remove passwords, ensuring secure access and distribution of PDF documents.
 
 - **[git-rexec](https://github.com/jamescherti/git-rexec)**: A command-line tool that recursively locates Git repositories within a directory and executes commands against them, either sequentially or in parallel.
@@ -95,8 +97,6 @@
 - **[vim-tomorrow-night-deepblue](https://github.com/jamescherti/vim-tomorrow-night-deepblue)**: The Vim color scheme Tomorrow Night Deepblue is a beautiful deep blue variant of the Tomorrow Night color scheme. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-tomorrow-night-deepblue?style=social">
 
 - **[vim-easysession](https://github.com/jamescherti/vim-easysession)**: Persist and restore your Vim editing sessions easily and effortlessly. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/vim-easysession?style=social">
-
-- **[vim-client](https://github.com/jamescherti/vim-client)**: Connect to Vim and edit files, diff files, send Vim commands, evaluate Vim expressions...
 
 - **[lightvim](https://github.com/jamescherti/lightvim)**: The Lightvim project is a Vim configuration that is intended to serve as a solid foundation for a Vim configuration. The author began developing this configuration upon first adopting Vim and has continuously refined it over 25 years of research and testing to identify the most effective parameters and optimizations for a Vim configuration file.
 
