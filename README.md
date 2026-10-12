@@ -44,8 +44,6 @@
 
 - **[quick-fasd.el](https://github.com/jamescherti/quick-fasd.el)**: An Emacs package to integrate Fasd. Fasd is a command-line productivity booster that offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 
-- **[shell-pop](https://github.com/kyagi/shell-pop-el)**: I am the co-maintainer of *shell-pop*, an Emacs package that provides on-demand access to a terminal through a single, configurable key binding. The package supports multiple terminal implementations, including `term`, `eshell`, `ansi-term`, `vterm`, and `eat`, and ensures your original window configuration is restored when the terminal is hidden.
-
 - **[be-quiet.el](https://github.com/jamescherti/be-quiet.el)**: The be-quiet Emacs package helps manage and minimize unwanted output in your Emacs environment. It is useful in contexts where controlling or suppressing verbosity is required. <img align="right" alt="Workflow" src="https://github.com/jamescherti/be-quiet.el/actions/workflows/melpazoid.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/be-quiet.el?style=social">
 
 - **[ultisnips-mode.el](https://github.com/jamescherti/ultisnips-mode.el)**: An Emacs major mode for editing Ultisnips snippet files. This mode provides syntax highlighting to facilitate editing Ultisnips snippets.
