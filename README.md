@@ -74,6 +74,10 @@
 
 - **[git-commitflow](https://github.com/jamescherti/git-commitflow)**: A command-line interface that assists with the Git operations of adding, viewing differences, committing changes, and pushing updates. One significant benefit of the git-commitflow tool is that it enhances the user's awareness and control over their changes before committing.
 
+- **[caffeine-aw](https://github.com/jamescherti/caffeine-aw)**: keep your UNIX/Linux computer awake, even when the full-screen window is not focused.
+
+- **[ultyas](https://github.com/jamescherti/ultyas)**: A command-line tool that simplifies the process of converting code snippets from UltiSnips (Vim/Neovim) to YASnippet format (Emacs).
+
 ## Ansible
 
 - **[ansible-role-gitolite](https://github.com/jamescherti/ansible-role-gitolite)**: An Ansible role that installs and configures Gitolite for managing Git repositories and access control on remote servers.
