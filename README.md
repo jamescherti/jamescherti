@@ -90,7 +90,8 @@
 
 - **[ansible-role-apt](https://github.com/jamescherti/ansible-role-apt)**: An Ansible role that manages the APT configuration and updates the /etc/apt/sources.list for Debian and Ubuntu systems.
 
-- **[ansible-role-apt-upgrade](https://github.com/jamescherti/ansible-role-apt-upgrade)**: An Ansible role for automated upgrades of Debian-based systems (e.g., Ubuntu, Debian, Linux Mint).
+- **[ansible-role-auto-upgrade](https://github.com/jamescherti/ansible-role-auto-upgrade)**: An Ansible role that automates Linux upgrades.
+
 
 - **[ansible-cleanup](https://github.com/jamescherti/ansible-cleanup)**: Provides command-line tools to find and remove unused Ansible playbooks, tasks, group variables, and host variables.
 
