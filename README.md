@@ -1,6 +1,6 @@
 ### Hi there 👋 I am James Cherti
 
-I actively maintain a diverse portfolio of open-source projects.
+This page presents the open source projects developed and maintained by James Cherti.
 
 ## Emacs
 
