@@ -7,10 +7,7 @@ I am an experienced software developer and Linux system administrator. My focuse
 - **A modular IDE built on the Unix philosophy:** I build and maintain Emacs and Vim extensions and Linux/Unix command-line tools that assemble into an IDE. My goal is to make text editors and the command-line work together as a cohesive development environment capable of engineering complex software, ensuring the editor and the shell share the same workflows: triggering contextual file actions uniformly (`pathaction`), orchestrating batch Git operations across dozens of repositories (`git-rexec` and `batchfetch`), tracking recent files across both environments (`efasd` and `quick-sdcv.el`), persisting complete editing sessions across restarts (`easysession.el` and `vim-easysession`)...
 - **Infrastructure as code and Linux automation:** I treat system administration and server management as testable, reproducible code. My projects include declarative Ansible roles, scriptable firewall management, and automation tools.
 
-[Website: JamesCherti.com](https://www.jamescherti.com/) · [GitHub Repositories by stars](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers) · [GitHub: @jamescherti](https://github.com/jamescherti)
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Emacs" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -20,6 +17,18 @@ I am an experienced software developer and Linux system administrator. My focuse
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
 
+</div>
+
+<div align="center">
+  <a href="https://www.jamescherti.com/">
+    <img src="https://img.shields.io/badge/Website-JamesCherti.com-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img src="https://img.shields.io/badge/Repositories-By_Stars-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Top Repos" />
+  </a>
+  <a href="https://github.com/jamescherti">
+    <img src="https://img.shields.io/badge/GitHub-@jamescherti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
 </div>
 
 ## Emacs
