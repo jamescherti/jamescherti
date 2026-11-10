@@ -2,6 +2,10 @@
 
 This page presents the open source projects developed and maintained by [James Cherti](https://www.jamescherti.com/).
 
+I develop and maintain open source software for text editing, developer tooling, and Linux system administration. My projects extend Emacs and Vim, automate Git operations, and make Linux system configuration reproducible. Across Emacs Lisp, Python, Bash, and Ansible, I focus on reliable behavior, practical features, and maintainable implementations.
+
+[Website](https://www.jamescherti.com/) · [Repositories by stars](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)
+
 ## Emacs
 
 - **[minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d)**: A lightweight and fast Emacs base (`init.el` and `early-init.el`) that provides better defaults, an optimized startup, and a clean foundation for building your own vanilla Emacs setup. In just a few minutes, you will possess a fully functional, high-performance Emacs configuration ready for work. You will bypass hours of configuration and the heavy overhead of frameworks like Doom or Spacemacs, gaining immediate access to a foundation featuring optimized garbage collection, sensible UI defaults, and a fast startup. <img align="right" alt="Workflow" src="https://github.com/jamescherti/minimal-emacs.d/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=social">
