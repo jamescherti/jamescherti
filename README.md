@@ -11,8 +11,6 @@ I am an experienced software developer and Linux system administrator. My focuse
 
 <div align="center">
 
-### 🛠️ Languages & Core Tools
-
 <img src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Emacs" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -21,17 +19,6 @@ I am an experienced software developer and Linux system administrator. My focuse
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
-
-<br><br>
-
-### 📊 GitHub Activity & Top Languages
-
-<a href="https://github.com/jamescherti">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamescherti&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="James Cherti's GitHub Stats" />
-</a>
-<a href="https://github.com/jamescherti">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescherti&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</a>
 
 </div>
 
