@@ -11,11 +11,9 @@ I am an experienced software developer and Linux system administrator. My focuse
   <a href="https://www.jamescherti.com/">
     <img src="https://img.shields.io/badge/Website-JamesCherti.com-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
   </a>
-  <br />
   <a href="https://github.com/jamescherti">
     <img src="https://img.shields.io/badge/GitHub-@jamescherti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <br />
   <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers">
     <img src="https://img.shields.io/badge/Repositories-By_Stars-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Top Repos" />
   </a>
