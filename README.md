@@ -9,16 +9,7 @@ I am an experienced software developer and Linux system administrator. My focuse
 
 ## 🛠️ Languages and core tools
 
-<div align="center">
-  <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=emacs-lisp&sort=stargazers"><img src="https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Emacs" /></a>
-  <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=python&sort=stargazers"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=shell&sort=stargazers"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
-  <a href="https://github.com/jamescherti?tab=repositories&q=linux&type=source&sort=stargazers"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a href="https://github.com/jamescherti?tab=repositories&q=ansible&type=source&sort=stargazers"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
-  <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=vim-script&sort=stargazers"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /></a>
-  <a href="https://github.com/jamescherti?tab=repositories&q=git&type=source&sort=stargazers"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://github.com/jamescherti/jc-dotfiles"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" /></a>
-</div>
+<div align="center"> <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=emacs-lisp&sort=stargazers"><img src="https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Emacs" /></a> <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=python&sort=stargazers"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=shell&sort=stargazers"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a> <a href="https://github.com/jamescherti?tab=repositories&q=linux&type=source&sort=stargazers"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a> <a href="https://github.com/jamescherti?tab=repositories&q=ansible&type=source&sort=stargazers"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a> <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=vim-script&sort=stargazers"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /></a> <a href="https://github.com/jamescherti?tab=repositories&q=git&type=source&sort=stargazers"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a> <a href="https://github.com/jamescherti/jc-dotfiles"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" /></a> </div>
 
 ## Emacs
 
@@ -156,16 +147,4 @@ I am an experienced software developer and Linux system administrator. My focuse
 <img src="https://komarev.com/ghpvc/?username=jamescherti&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<div align="center">
-  <a href="https://www.jamescherti.com/">
-    <img src="https://img.shields.io/badge/Website-JamesCherti.com-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
-  </a>
-
-  <a href="https://github.com/jamescherti">
-    <img src="https://img.shields.io/badge/GitHub-@jamescherti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-
-  <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers">
-    <img src="https://img.shields.io/badge/Repositories-By_Stars-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Top Repos" />
-  </a>
-</div>
+<div align="center"> <a href="https://www.jamescherti.com/"> <img src="https://img.shields.io/badge/Website-JamesCherti.com-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" /> </a> <a href="https://github.com/jamescherti"> <img src="https://img.shields.io/badge/GitHub-@jamescherti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /> </a> <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers"> <img src="https://img.shields.io/badge/Repositories-By_Stars-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Top Repos" /> </a> </div>
