@@ -2,24 +2,26 @@
 
 This page presents the open source projects developed and maintained by [James Cherti](https://www.jamescherti.com/).
 
-I am an experienced software developer and Linux system administrator. My focuses on two core areas:
-
-- **A modular IDE built on the Unix philosophy:** I build and maintain Emacs and Vim extensions and Linux/Unix command-line tools that assemble into an IDE. My goal is to make text editors and the command-line work together as a cohesive development environment capable of engineering complex software, ensuring the editor and the shell share the same workflows: triggering contextual file actions uniformly (`pathaction`), orchestrating batch Git operations across dozens of repositories (`git-rexec` and `batchfetch`), tracking recent files across both environments (`efasd` and `quick-sdcv.el`), persisting complete editing sessions across restarts (`easysession.el` and `vim-easysession`)...
-- **Infrastructure as code and Linux automation:** I treat system administration and server management as testable, reproducible code. My projects include declarative Ansible roles, scriptable firewall management, and automation tools.
-
 <div align="center">
   <a href="https://www.jamescherti.com/">
     <img src="https://img.shields.io/badge/Website-JamesCherti.com-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
   </a>
+  <br />
   <a href="https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers">
     <img src="https://img.shields.io/badge/Repositories-By_Stars-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Top Repos" />
   </a>
+  <br />
   <a href="https://github.com/jamescherti">
     <img src="https://img.shields.io/badge/GitHub-@jamescherti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </div>
 
-### 🛠️ Languages & Core Tools
+I am an experienced software developer and Linux system administrator. My focuses on two core areas:
+
+- **A modular IDE built on the Unix philosophy:** I build and maintain Emacs and Vim extensions and Linux/Unix command-line tools that assemble into an IDE. My goal is to make text editors and the command-line work together as a cohesive development environment capable of engineering complex software, ensuring the editor and the shell share the same workflows: triggering contextual file actions uniformly (`pathaction`), orchestrating batch Git operations across dozens of repositories (`git-rexec` and `batchfetch`), tracking recent files across both environments (`efasd` and `quick-sdcv.el`), persisting complete editing sessions across restarts (`easysession.el` and `vim-easysession`)...
+- **Infrastructure as code and Linux automation:** I treat system administration and server management as testable, reproducible code. My projects include declarative Ansible roles, scriptable firewall management, and automation tools.
+
+## 🛠️ Languages and Core Tools
 
 <div align="center">
 <img src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Emacs" />
