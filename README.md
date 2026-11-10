@@ -9,6 +9,32 @@ I am an experienced software developer and Linux system administrator. My focuse
 
 [Website: JamesCherti.com](https://www.jamescherti.com/) · [GitHub Repositories by stars](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers) · [GitHub: @jamescherti](https://github.com/jamescherti)
 
+<div align="center">
+
+### 🛠️ Languages & Core Tools
+
+<img src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Emacs" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
+
+<br><br>
+
+### 📊 GitHub Activity & Top Languages
+
+<a href="https://github.com/jamescherti">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamescherti&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="James Cherti's GitHub Stats" />
+</a>
+<a href="https://github.com/jamescherti">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescherti&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</a>
+
+</div>
+
 ## Emacs
 
 - **[minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d)**: A lightweight and fast Emacs base (`init.el` and `early-init.el`) that provides better defaults, an optimized startup, and a clean foundation for building your own vanilla Emacs setup. In just a few minutes, you will possess a fully functional, high-performance Emacs configuration ready for work. You will bypass hours of configuration and the heavy overhead of frameworks like Doom or Spacemacs, gaining immediate access to a foundation featuring optimized garbage collection, sensible UI defaults, and a fast startup. <img align="right" alt="Workflow" src="https://github.com/jamescherti/minimal-emacs.d/actions/workflows/ci.yml/badge.svg"> <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=social">
