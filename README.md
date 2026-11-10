@@ -2,7 +2,9 @@
 
 This page presents the open source projects developed and maintained by [James Cherti](https://www.jamescherti.com/).
 
-I develop and maintain open source software for text editing, developer tooling, and Linux system administration. My projects extend Emacs and Vim, automate Git operations, and make Linux system configuration reproducible. Across Emacs Lisp, Python, Bash, and Ansible, I focus on reliable behavior, practical features, and maintainable implementations.
+I am a software developer, Linux system administrator, and open-source contributor specializing in infrastructure as code, text editor extensions, and terminal-centric tooling.
+
+My work is influenced by the Unix philosophy. I focus on creating reliable, modular software that helps software developers build highly personalized Linux or Unix environments, helping shape lightweight development environments that run without the resource bloat of heavy IDEs. Using Emacs Lisp, Python, Bash, and Ansible, I build tools that solve complex technical challenges, ranging from comprehensive Emacs session management and offline dictionaries to Git automation and precise Linux system configuration.
 
 [Website](https://www.jamescherti.com/) · [Repositories by stars](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)
 
