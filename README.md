@@ -2,11 +2,12 @@
 
 This page presents the open source projects developed and maintained by [James Cherti](https://www.jamescherti.com/).
 
-I am a software developer, Linux system administrator, and open-source contributor specializing in infrastructure as code, text editor extensions, and terminal-centric tooling.
+I am an experienced software developer and Linux system administrator. My focuses on two core areas:
 
-My work is influenced by the Unix philosophy. I focus on creating reliable, modular software that helps software developers build highly personalized Linux or Unix environments, helping shape lightweight development environments that run without the resource bloat of heavy IDEs. Using Emacs Lisp, Python, Bash, and Ansible, I build tools that solve complex technical challenges, ranging from comprehensive Emacs session management and offline dictionaries to Git automation and precise Linux system configuration.
+- **A modular IDE built on the Unix philosophy:** I build and maintain Emacs and Vim extensions and command-line tools that assemble into an IDE. My goal is to make text editors and Linux work together as a cohesive development environment capable of engineering complex software, ensuring the editor and the shell share the same workflows: triggering contextual file actions uniformly (`pathaction`), orchestrating batch Git operations across dozens of repositories (`git-rexec` and `batchfetch`), tracking recent files across both environments (`efasd` and `quick-sdcv.el`), persisting complete editing sessions across restarts (`easysession.el` and `vim-easysession`)...
+- **Infrastructure as code and Linux automation:** I treat system administration and server management as testable, reproducible code. My projects include declarative Ansible roles, scriptable firewall management, and automation tools.
 
-[Website](https://www.jamescherti.com/) · [Repositories by stars](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)
+[Website: JamesCherti.com](https://www.jamescherti.com/) · [GitHub Repositories by stars](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers) · [GitHub: @jamescherti](https://github.com/jamescherti)
 
 ## Emacs
 
