@@ -4,8 +4,8 @@
 
 I am an experienced software developer and Linux system administrator. This page presents the open-source projects I develop and maintain, focusing on two core areas:
 
-- **A modular IDE built on the Unix philosophy:** I build and maintain Emacs and Vim extensions and Linux/Unix command-line tools that assemble into an IDE. My goal is to make text editors and the command-line work together as a cohesive development environment capable of engineering complex software, ensuring the editor and the shell share the same tools: triggering contextual file actions uniformly (`pathaction`), orchestrating batch Git operations across dozens of repositories (`git-rexec` and `batchfetch`), tracking recent files across both environments (`efasd` and `quick-sdcv.el`), persisting complete editing sessions across restarts (`easysession.el` and `vim-easysession`)...
 - **Infrastructure as code and Linux automation:** I treat system administration and server management as testable, reproducible code. My projects include declarative Ansible roles, scriptable firewall management, and automation tools.
+- **A modular IDE built on the Unix philosophy:** I build and maintain Emacs and Vim extensions and Linux/Unix command-line tools that assemble into an IDE. My goal is to make text editors and the command-line work together as a cohesive development environment capable of engineering complex software, ensuring the editor and the shell share the same tools: contextual file actions (`pathaction`), orchestrating batch Git operations across several repositories (`git-rexec` and `batchfetch`), tracking recent files (`efasd` and `quick-sdcv.el`), persisting complete editing sessions (`easysession.el` and `vim-easysession`)...
 
 ## 🛠️ Languages and core tools
 
