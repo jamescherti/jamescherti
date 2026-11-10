@@ -2,7 +2,7 @@
 
 This page presents the open source projects developed and maintained by [James Cherti](https://www.jamescherti.com/).
 
-<div align="center">
+<div>
   <a href="https://www.jamescherti.com/">
     <img src="https://img.shields.io/badge/Website-JamesCherti.com-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
   </a>
