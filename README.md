@@ -8,18 +8,6 @@ I am an experienced software developer and Linux system administrator. My focuse
 - **Infrastructure as code and Linux automation:** I treat system administration and server management as testable, reproducible code. My projects include declarative Ansible roles, scriptable firewall management, and automation tools.
 
 <div align="center">
-<img src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Emacs" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
-
-</div>
-
-<div align="center">
   <a href="https://www.jamescherti.com/">
     <img src="https://img.shields.io/badge/Website-JamesCherti.com-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
   </a>
@@ -29,6 +17,20 @@ I am an experienced software developer and Linux system administrator. My focuse
   <a href="https://github.com/jamescherti">
     <img src="https://img.shields.io/badge/GitHub-@jamescherti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
+</div>
+
+### 🛠️ Languages & Core Tools
+
+<div align="center">
+<img src="https://img.shields.io/badge/GNU%20Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Emacs" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
+
 </div>
 
 ## Emacs
