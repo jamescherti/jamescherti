@@ -141,6 +141,8 @@ Select a badge to explore James Cherti's repositories by language or topic, sort
 
 - **[jc-gentoo-portage](https://github.com/jamescherti/jc-gentoo-portage)**: This repository houses James Cherti's Gentoo Portage, which enables the compilation and installation of software packages on a Gentoo Linux system.
 
+- **[gentoo-upgrade](https://github.com/jamescherti/gentoo-upgrade)**: A command-line tool that updates Gentoo Linux. It brings routine Gentoo maintenance into one repeatable command.
+
 - **[cherrybuckle](https://github.com/jamescherti/cherrybuckle)**: Cherry MX Blue mechanical keyboard simulator (Compatible with: Linux and MacOS). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamescherti/cherrybuckle?style=social">
 
 - **[All projects by James Cherti](https://github.com/jamescherti?tab=repositories&q=&type=source&language=&sort=stargazers)**
